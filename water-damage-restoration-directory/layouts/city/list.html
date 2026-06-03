@@ -56,7 +56,7 @@
   <h2>Guides for {{ $city }}</h2>
   <ul class="guide-list">
     {{ range $guides }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end }}
   </ul>
 </section>

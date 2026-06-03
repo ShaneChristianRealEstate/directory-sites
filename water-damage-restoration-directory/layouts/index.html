@@ -26,7 +26,7 @@
   <h2>Browse by City</h2>
   <div class="grid">
     {{ range $cities }}
-    <a href="{{ .Permalink }}" class="city-card">
+    <a href="{{ .RelPermalink }}" class="city-card">
       <h3>{{ .Params.city }}</h3>
       <p>{{ $.Site.Params.niche | title }} providers</p>
     </a>
@@ -50,7 +50,7 @@
   <h2>Helpful Guides</h2>
   <ul class="guide-list">
     {{ range first 6 $guides }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end }}
   </ul>
 </section>
