@@ -5,6 +5,7 @@ title = "Best Water Damage Restoration — Local Directory"
 [params]
   niche = "water damage restoration"
   description = "Find the best water damage restoration providers in your city."
+  googleAnalyticsId = "G-SKL2VE5Z16"
   adsensePublisherId = "ca-pub-XXXXXXXXXXXXXXXX"
   adsenseSlotHeader = "1234567890"
   adsenseSlotContent = "0987654321"
