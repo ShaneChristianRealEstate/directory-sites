@@ -1,0 +1,11 @@
+baseURL = "https://example.com"
+locale = "en-US"
+title = "Best Water Damage Restoration — Local Directory"
+
+[params]
+  niche = "water damage restoration"
+  description = "Find the best water damage restoration providers in your city."
+  adsensePublisherId = "ca-pub-XXXXXXXXXXXXXXXX"
+  adsenseSlotHeader = "1234567890"
+  adsenseSlotContent = "0987654321"
+  adsenseSlotFooter = "1122334455"

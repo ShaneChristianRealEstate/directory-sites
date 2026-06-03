@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+
+  <!-- Schema.org structured data -->
+  {{ block "schema" . }}{{ end }}
+
+  <!-- Google AdSense auto ads -->
+  {{ with .Site.Params.adsensePublisherId }}
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ . }}" crossorigin="anonymous"></script>
+  {{ end }}
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="{{ "/" | relURL }}" class="site-logo">{{ .Site.Title }}</a>
+      <nav>
+        <a href="{{ "/" | relURL }}">Home</a>
+        <a href="{{ "/cities/" | relURL }}">Cities</a>
+        <a href="{{ "/blog/" | relURL }}">Guides</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Header ad slot -->
+  {{ with .Site.Params.adsensePublisherId }}{{ with $.Site.Params.adsenseSlotHeader }}
+  <div class="ad-container">
+    <ins class="adsbygoogle" style="display:block" data-ad-client="{{ $.Site.Params.adsensePublisherId }}" data-ad-slot="{{ . }}" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+  {{ end }}{{ end }}
+
+  <main class="container">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <!-- Footer ad slot -->
+  {{ with .Site.Params.adsensePublisherId }}{{ with $.Site.Params.adsenseSlotFooter }}
+  <div class="ad-container">
+    <ins class="adsbygoogle" style="display:block" data-ad-client="{{ $.Site.Params.adsensePublisherId }}" data-ad-slot="{{ . }}" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+  {{ end }}{{ end }}
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
+      <p><a href="/privacy/">Privacy Policy</a> &middot; <a href="/contact/">Contact</a></p>
+    </div>
+  </footer>
+</body>
+</html>
