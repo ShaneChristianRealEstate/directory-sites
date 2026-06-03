@@ -82,6 +82,26 @@ main.container { padding-top: 2rem; padding-bottom: 3rem; }
 .page-content ul, .page-content ol { padding-left: 1.5rem; margin-bottom: 1rem; }
 .page-content li { margin-bottom: 0.35rem; }
 
+/* ---- City hero image ---- */
+.city-hero {
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 2rem;
+  min-height: 280px;
+  display: flex;
+  align-items: flex-end;
+}
+.city-hero-overlay {
+  background: linear-gradient(to top, rgba(0,0,0,.75) 0%, rgba(0,0,0,.1) 100%);
+  width: 100%;
+  padding: 2rem 1.5rem 1.5rem;
+  color: #fff;
+}
+.city-hero-overlay h1 { font-size: 2rem; margin-bottom: 0.25rem; color: #fff; }
+.city-hero-overlay p { opacity: 0.85; font-size: 1rem; }
+
 /* ---- Cities grid ---- */
 .cities-grid { margin-top: 2.5rem; }
 .cities-grid h2 { margin-bottom: 1rem; font-size: 1.5rem; }
@@ -97,12 +117,34 @@ main.container { padding-top: 2rem; padding-bottom: 3rem; }
   border-radius: 8px;
   padding: 1rem;
   text-align: center;
-  transition: box-shadow 0.15s;
+  transition: box-shadow 0.15s, transform 0.15s;
   color: var(--text);
+  overflow: hidden;
+  min-height: 120px;
+  position: relative;
 }
-.city-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,.1); text-decoration: none; }
+.city-card:hover { box-shadow: 0 6px 18px rgba(0,0,0,.15); transform: translateY(-2px); text-decoration: none; }
 .city-card h3 { font-size: 1rem; margin-bottom: 0.25rem; color: var(--primary); }
 .city-card p { font-size: 0.8rem; color: var(--muted); }
+
+/* Photo city cards */
+.city-card.has-image {
+  background-size: cover;
+  background-position: center;
+  min-height: 160px;
+  display: flex;
+  align-items: flex-end;
+  padding: 0;
+  color: #fff;
+}
+.city-card.has-image .city-card-content {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  background: linear-gradient(to top, rgba(0,0,0,.7) 0%, transparent 100%);
+  border-radius: 0 0 8px 8px;
+}
+.city-card.has-image h3 { color: #fff; }
+.city-card.has-image p { color: rgba(255,255,255,.85); }
 
 /* ---- Business listings ---- */
 .business-listings { margin-top: 2.5rem; }

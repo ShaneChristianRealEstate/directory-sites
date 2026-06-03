@@ -14,7 +14,17 @@
   <a href="/">Home</a> &rsaquo; <a href="/cities/">Cities</a> &rsaquo; {{ .Params.city }}
 </div>
 
+<!-- City hero image -->
+{{ with .Params.cityImage }}
+<div class="city-hero" style="background-image: url('{{ . }}')">
+  <div class="city-hero-overlay">
+    <h1>{{ $.Title }}</h1>
+    <p>{{ $.Params.city }} &mdash; {{ $.Site.Params.niche | title }} providers</p>
+  </div>
+</div>
+{{ else }}
 <h1>{{ .Title }}</h1>
+{{ end }}
 
 <!-- In-content ad slot -->
 {{ with .Site.Params.adsensePublisherId }}{{ with $.Site.Params.adsenseSlotContent }}
@@ -37,7 +47,7 @@
   <div class="business-grid">
     {{ range $businesses }}
     <div class="business-card">
-      <h3><a href="{{ $.Permalink }}{{ .slug }}/">{{ .name }}</a></h3>
+      <h3><a href="{{ $.RelPermalink }}{{ .slug }}/">{{ .name }}</a></h3>
       {{ if .rating }}<div class="rating">⭐ {{ .rating }} ({{ .reviews }} reviews)</div>{{ end }}
       {{ if .address }}<p class="address">📍 {{ .address }}</p>{{ end }}
       {{ if .phone }}<p class="phone">📞 <a href="tel:{{ .phone }}">{{ .phone }}</a></p>{{ end }}
