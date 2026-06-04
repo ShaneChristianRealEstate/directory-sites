@@ -1,0 +1,270 @@
+- address: 2 Lea Ave, Nashville, TN 37210, USA
+  category: restaurants
+  name: Harper's
+  phone: (615) 649-7562
+  place_id: ChIJkTimkhVnZIgR1L49miz0jVM
+  rating: 4.8
+  reviews: 3309
+  slug: harper-s
+  website: https://www.harpersnashville.com/
+- address: 710 Demonbreun St 19th Floor, Nashville, TN 37203, USA
+  category: restaurants
+  name: Harriet's Rooftop
+  phone: (615) 510-0426
+  place_id: ChIJU0OUhPdnZIgRQ_GQuh-RDwc
+  rating: 4.6
+  reviews: 658
+  slug: harriet-s-rooftop
+  website: https://www.1hotels.com/nashville/taste/harriets-rooftop?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp
+- address: 211 12th Ave S, Nashville, TN 37203, USA
+  category: restaurants
+  name: Luogo
+  phone: (615) 988-8200
+  place_id: ChIJH9nNuORnZIgRz4ZY2Va8u9g
+  rating: 4.8
+  reviews: 1751
+  slug: luogo
+  website: http://www.luogorestaurant.com/
+- address: 167 Rosa L Parks Blvd, Nashville, TN 37203, USA
+  category: restaurants
+  name: The Standard
+  phone: (615) 254-1277
+  place_id: ChIJvSpnOvdmZIgRtef2vPCtpjs
+  rating: 4.7
+  reviews: 1006
+  slug: the-standard
+  website: http://www.smithhousenashville.com/
+- address: 201 1st Ave S, Nashville, TN 37201, USA
+  category: restaurants
+  name: The Hampton Social - Nashville
+  phone: (615) 622-7772
+  place_id: ChIJ2zNcAORnZIgRDegDF_fkiW0
+  rating: 4.9
+  reviews: 19345
+  slug: the-hampton-social-nashville
+  website: https://www.thehamptonsocial.com/nashville
+- address: 1011 Clearview Ave, Nashville, TN 37206, USA
+  category: restaurants
+  name: The Treehouse Nashville
+  phone: (629) 263-7531
+  place_id: ChIJrzI3jdJnZIgRMYbRswDHo6E
+  rating: 4.3
+  reviews: 958
+  slug: the-treehouse-nashville
+  website: https://www.treehousenashville.com/
+- address: 607 Overton St, Nashville, TN 37203, USA
+  category: restaurants
+  name: The Iberian Pig
+  phone: (615) 844-4242
+  place_id: ChIJV_VfXmhnZIgRemCtcVMHSAc
+  rating: 4.9
+  reviews: 2758
+  slug: the-iberian-pig
+  website: https://www.iberianpig.com/
+- address: 300 4th Ave N, Nashville, TN 37219, USA
+  category: restaurants
+  name: Jeff Ruby's Steakhouse
+  phone: (615) 434-4300
+  place_id: ChIJOQh_KVhmZIgRVXhWXPWYS4c
+  rating: 4.8
+  reviews: 3528
+  slug: jeff-ruby-s-steakhouse
+  website: http://www.jeffruby.com/nashville
+- address: 701 Porter Rd, Nashville, TN 37206, USA
+  category: restaurants
+  name: Noko
+  phone: (615) 712-6894
+  place_id: ChIJSf0U2fdpZIgRJ5adKZHG0Bg
+  rating: 4.9
+  reviews: 1049
+  slug: noko
+  website: http://www.nokonashville.com/
+- address: 1103 McGavock St, Nashville, TN 37203, USA
+  category: restaurants
+  name: Kayne Prime
+  phone: (615) 259-0050
+  place_id: ChIJf0fzuvRmZIgR1Bnbo93dIjA
+  rating: 4.6
+  reviews: 2868
+  slug: kayne-prime
+  website: https://www.kayneprimenashville.com/
+- address: 2250 Lebanon Pike, Nashville, TN 37214, USA
+  category: hotels
+  name: Belle Air Mansion a Boutique Hotel
+  phone: (615) 880-6889
+  place_id: ChIJyZnmOQlpZIgRE3Ze7-3k-AU
+  rating: 4.9
+  reviews: 317
+  slug: belle-air-mansion-a-boutique-hotel
+  website: https://belleairmansion.com/?utm_source=google&utm_medium=GMB&utm_campaign=GMB
+- address: 1121 Gilmore Ave, Nashville, TN 37204, USA
+  category: hotels
+  name: The Gilmore, an AvantStay Hotel
+  phone: (629) 310-0292
+  place_id: ChIJ1_iZTS5kZIgRdshaAtPGQTs
+  rating: 4.8
+  reviews: 258
+  slug: the-gilmore-an-avantstay-hotel
+  website: https://thegilmorenashville.com/?utm_source=google&utm_medium=gmb&utm_campaign=gilmore_gmb
+- address: 2800 Opryland Dr, Nashville, TN 37214, USA
+  category: hotels
+  name: Gaylord Opryland Resort & Convention Center
+  phone: (615) 889-1000
+  place_id: ChIJ_5bAt9BpZIgRu1egin5QyTo
+  rating: 4.5
+  reviews: 34068
+  slug: gaylord-opryland-resort-convention-center
+  website: https://www.marriott.com/en-us/hotels/bnago-gaylord-opryland-resort-and-convention-center/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+- address: 1603 Woodland St, Nashville, TN 37206, USA
+  category: hotels
+  name: Urban Cowboy Nashville
+  phone: (347) 840-0525
+  place_id: ChIJT34Hin9oZIgRZpIarTp6cOA
+  rating: 4.7
+  reviews: 199
+  slug: urban-cowboy-nashville
+  website: http://urbancowboy.com/
+- address: 2510 Gallatin Ave, Nashville, TN 37206, USA
+  category: hotels
+  name: The Gallatin Hotel
+  phone: (615) 861-1634
+  place_id: ChIJB7Wx9N9nZIgRMXezEgJZmOg
+  rating: 4.9
+  reviews: 565
+  slug: the-gallatin-hotel
+  website: https://thegallatinhotel.com/
+- address: 807 Clark Pl, Nashville, TN 37203, USA
+  category: hotels
+  name: The Westin Nashville
+  phone: (615) 248-2800
+  place_id: ChIJsQdqxF9mZIgRR7ZpYqMvrjE
+  rating: 4.4
+  reviews: 3408
+  slug: the-westin-nashville
+  website: https://www.marriott.com/en-us/hotels/bnawi-the-westin-nashville/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+- address: 425 Rep. John Lewis Way S, Nashville, TN 37203, USA
+  category: hotels
+  name: Margaritaville Hotel Nashville
+  phone: (615) 986-9300
+  place_id: ChIJX7MOBV5mZIgR-rar5HrNVM4
+  rating: 4.5
+  reviews: 1498
+  slug: margaritaville-hotel-nashville
+  website: https://www.margaritavilleresorts.com/margaritaville-hotel-nashville?utm_source=local&utm_medium=organic&utm_campaign=website_link
+- address: 819 Russell St, Nashville, TN 37206, USA
+  category: hotels
+  name: The Russell
+  phone: (615) 861-9535
+  place_id: ChIJz2aZ4VhnZIgRgPVQ8bUUUxw
+  rating: 4.9
+  reviews: 1281
+  slug: the-russell
+  website: https://www.russellnashville.com/
+- address: 101 20th Ave N, Nashville, TN 37203, USA
+  category: hotels
+  name: Graduate by Hilton Nashville
+  phone: (615) 551-2700
+  place_id: ChIJ-R-3yJVmZIgRYh57GJZqS88
+  rating: 4.4
+  reviews: 1150
+  slug: graduate-by-hilton-nashville
+  website: https://www.hilton.com/en/hotels/bnagngu-graduate-nashville/?SEO_id=GMB-AMER-GU-BNAGNGU&y_source=1_MTA1MzY0NDYzNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+- address: 401 Korean Veterans Blvd, Nashville, TN 37203, USA
+  category: hotels
+  name: The Joseph, a Luxury Collection Hotel, Nashville
+  phone: (615) 248-1990
+  place_id: ChIJNQJ1oV1mZIgR7_qs46fOiS0
+  rating: 4.5
+  reviews: 718
+  slug: the-joseph-a-luxury-collection-hotel-nashville
+  website: https://www.marriott.com/en-us/hotels/bnalj-the-joseph-a-luxury-collection-hotel-nashville/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+- address: 633 7th Ave S, Nashville, TN 37203, USA
+  category: activities
+  name: The Rabbit Hole VR
+  phone: (615) 499-6219
+  place_id: ChIJQYCIuZRmZIgRtexTtM_iNG4
+  rating: 4.9
+  reviews: 395
+  slug: the-rabbit-hole-vr
+  website: https://www.therabbitholevr.com/
+- address: 521 Opry Mills Dr, Nashville, TN 37214, USA
+  category: activities
+  name: Great Big Game Show Nashville
+  phone: (615) 558-4247
+  place_id: ChIJ-2w5_iZpZIgR4oI_otpeiQU
+  rating: 5
+  reviews: 8257
+  slug: great-big-game-show-nashville
+  website: https://greatbiggameshow.com/nashville?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_id=nashville
+- address: 105 Broadway, Nashville, TN 37201, USA
+  category: activities
+  name: Nashville Underground
+  phone: ''
+  place_id: ChIJOd3VoFtmZIgRv7_nclBPTqs
+  rating: 4.1
+  reviews: 2374
+  slug: nashville-underground
+  website: https://www.nashunderground.com/
+- address: 128 2nd Ave N, Nashville, TN 37201, USA
+  category: activities
+  name: Play Playground
+  phone: (615) 623-9898
+  place_id: ChIJ9y96fABnZIgRytIwj71jK5w
+  rating: 4.6
+  reviews: 1552
+  slug: play-playground
+  website: https://www.playplayground.com/nashville
+- address: 3794 Carothers Pkwy, Franklin, TN 37067, USA
+  category: activities
+  name: Soar Adventure Tower
+  phone: (615) 721-5103
+  place_id: ChIJey8z4ix_ZIgRL2_wWbKrSIs
+  rating: 4.7
+  reviews: 704
+  slug: soar-adventure-tower
+  website: https://soaradventure.com/
+- address: 501 Union St, Nashville, TN 37219, USA
+  category: activities
+  name: Escape Experience - Nashville Escape Games (Downtown)
+  phone: (615) 891-7929
+  place_id: ChIJ5zPtclhmZIgRR9LD3lCO_yA
+  rating: 4.9
+  reviews: 2218
+  slug: escape-experience-nashville-escape-games-downtown
+  website: https://www.escapeexperience.com/nashville
+- address: 652 Fogg St, Nashville, TN 37203, USA
+  category: activities
+  name: Bad Axe Throwing Nashville
+  phone: (629) 203-6158
+  place_id: ChIJW4HeMGFmZIgRloPGcBAQBUo
+  rating: 4.8
+  reviews: 1830
+  slug: bad-axe-throwing-nashville
+  website: https://badaxethrowing.com/locations/axe-throwing-nashville/
+- address: 2800 Opryland Dr, Nashville, TN 37214, USA
+  category: activities
+  name: Opryland Fountain
+  phone: ''
+  place_id: ChIJWeubHwBpZIgR3DPBRreTZJ4
+  rating: 5
+  reviews: 22
+  slug: opryland-fountain
+  website: ''
+- address: 2207 Bowline Ave, Nashville, TN 37207, USA
+  category: activities
+  name: Muse Paintbar - Nashville
+  phone: (888) 607-6873
+  place_id: ChIJfeFwEz5nZIgREv_xl83n8Lk
+  rating: 4.8
+  reviews: 17
+  slug: muse-paintbar-nashville
+  website: https://www.musepaintbar.com/events/nashville-paint-bar
+- address: 510 E Iris Dr, Nashville, TN 37204, USA
+  category: activities
+  name: The Escape Game Nashville (Berry Hill)
+  phone: (615) 647-8229
+  place_id: ChIJv6YfiMFlZIgR8T9z7EhuAFk
+  rating: 5
+  reviews: 16934
+  slug: the-escape-game-nashville-berry-hill
+  website: https://theescapegame.com/nashville/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_id=nsh-berry-hill

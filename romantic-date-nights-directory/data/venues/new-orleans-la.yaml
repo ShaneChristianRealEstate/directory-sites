@@ -1,0 +1,270 @@
+- address: 801 Chartres St, New Orleans, LA 70116, USA
+  category: restaurants
+  name: Muriel's Jackson Square
+  phone: (504) 568-1885
+  place_id: ChIJaS5FoBGmIIYRTXOjqm3XxI0
+  rating: 4.6
+  reviews: 5294
+  slug: muriel-s-jackson-square
+  website: http://www.muriels.com/
+- address: 417 Royal St, New Orleans, LA 70130, USA
+  category: restaurants
+  name: Brennan's
+  phone: (504) 525-9711
+  place_id: ChIJjbdq3A2mIIYRCrLg6e3eRy8
+  rating: 4.5
+  reviews: 6176
+  slug: brennan-s
+  website: https://www.brennansneworleans.com/
+- address: 808 Bienville St, New Orleans, LA 70112, USA
+  category: restaurants
+  name: GW Fins
+  phone: (504) 581-3467
+  place_id: ChIJ8W3hFQymIIYRQObKMMNMyRo
+  rating: 4.8
+  reviews: 5411
+  slug: gw-fins
+  website: http://gwfins.com/
+- address: 723 Dante St, New Orleans, LA 70118, USA
+  category: restaurants
+  name: Brigtsen's Restaurant
+  phone: (504) 861-7610
+  place_id: ChIJ78dwoz6lIIYR5xwiW0yPSzw
+  rating: 4.8
+  reviews: 842
+  slug: brigtsen-s-restaurant
+  website: http://www.brigtsens.com/
+- address: 777 Bienville St, New Orleans, LA 70130, USA
+  category: restaurants
+  name: Restaurant R'evolution
+  phone: (504) 553-2277
+  place_id: ChIJJw5QMQymIIYRKiJRuT8HciA
+  rating: 4.6
+  reviews: 1786
+  slug: restaurant-r-evolution
+  website: https://revolutionnola.com/
+- address: 942 N Rampart St, New Orleans, LA 70116, USA
+  category: restaurants
+  name: MaMou
+  phone: (504) 381-4557
+  place_id: ChIJE5UXKPynIIYRaBLgdS1C0zo
+  rating: 4.7
+  reviews: 419
+  slug: mamou
+  website: https://www.mamounola.com/
+- address: 2800 Magazine St, New Orleans, LA 70115, USA
+  category: restaurants
+  name: Coquette
+  phone: (504) 265-0421
+  place_id: ChIJ8dFCFi2kIIYR5cXQfaTpL-g
+  rating: 4.6
+  reviews: 985
+  slug: coquette
+  website: http://www.coquettenola.com/
+- address: 301 Tchoupitoulas St, New Orleans, LA 70130, USA
+  category: restaurants
+  name: August
+  phone: (504) 299-9777
+  place_id: ChIJGw2RxnKmIIYRk0cBxtskDck
+  rating: 4.7
+  reviews: 1454
+  slug: august
+  website: http://www.restaurantaugust.com/
+- address: 2 Canal St, New Orleans, LA 70130, USA
+  category: restaurants
+  name: Chemin à la Mer
+  phone: (504) 434-5898
+  place_id: ChIJJ1IJEW2mIIYRWGEYqk7J47Y
+  rating: 4.3
+  reviews: 331
+  slug: chemin-la-mer
+  website: https://www.cheminalamer.com/?utm_source=google&utm_medium=organicsearch&utm_campaign=tor-nln-fab-mid-seo-na&utm_content=na-na&utm_term=na
+- address: 901 Louisiana Ave, New Orleans, LA 70115, USA
+  category: restaurants
+  name: Atchafalaya
+  phone: (504) 891-9626
+  place_id: ChIJC8nSXDGkIIYRErGwcVpRxTU
+  rating: 4.7
+  reviews: 3238
+  slug: atchafalaya
+  website: http://www.atchafalayarestaurant.com/
+- address: 214 Royal St, New Orleans, LA 70130, USA
+  category: hotels
+  name: Hotel Monteleone
+  phone: (504) 523-3341
+  place_id: ChIJeeeT5SSmIIYRcEbGkOxXAH8
+  rating: 4.6
+  reviews: 6792
+  slug: hotel-monteleone
+  website: https://hotelmonteleone.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp
+- address: 717 Orleans St, New Orleans, LA 70116, USA
+  category: hotels
+  name: Bourbon Orleans Hotel
+  phone: (855) 771-5214
+  place_id: ChIJu2hvxRGmIIYRoSvQhExrc1Y
+  rating: 4.4
+  reviews: 2874
+  slug: bourbon-orleans-hotel
+  website: https://www.bourbonorleans.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp
+- address: 130 Roosevelt Way, New Orleans, LA 70112, USA
+  category: hotels
+  name: The Roosevelt New Orleans, A Waldorf Astoria Hotel
+  phone: (504) 648-1200
+  place_id: ChIJTz6VoQumIIYRh45jAKY_fsA
+  rating: 4.6
+  reviews: 6070
+  slug: the-roosevelt-new-orleans-a-waldorf-astoria-hotel
+  website: https://www.hilton.com/en/hotels/msyrhwa-the-roosevelt-new-orleans/?SEO_id=GMB-AMER-WA-MSYRHWA&y_source=1_MjA4MjI0NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+- address: 300 Bourbon St, New Orleans, LA 70130, USA
+  category: hotels
+  name: The Royal Sonesta New Orleans
+  phone: (504) 586-0300
+  place_id: ChIJJw5QMQymIIYRJXZ5D5axQMQ
+  rating: 4.3
+  reviews: 4319
+  slug: the-royal-sonesta-new-orleans
+  website: https://neworleansroyal.sonesta.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb
+- address: 546 Carondelet St, New Orleans, LA 70130, USA
+  category: hotels
+  name: Maison Métier - The Unbound Collection by Hyatt
+  phone: (504) 814-7720
+  place_id: ChIJL6iBXKynIIYRJOBmuzLEg1Q
+  rating: 4.5
+  reviews: 322
+  slug: maison-m-tier-the-unbound-collection-by-hyatt
+  website: https://maisonmetier.com/?src=corp_lclb_google_seo_msyum&utm_source=google&utm_medium=organic&utm_campaign=lmr
+- address: 1129 St Philip St, New Orleans, LA 70116, USA
+  category: hotels
+  name: Louis Park Hotel
+  phone: (504) 323-7211
+  place_id: ChIJ8XONKOSnIIYRvU246YcJb1k
+  rating: 4.9
+  reviews: 137
+  slug: louis-park-hotel
+  website: https://www.louisparkhotel.com/
+- address: 921 Canal St, New Orleans, LA 70112, USA
+  category: hotels
+  name: The Ritz-Carlton, New Orleans
+  phone: (504) 524-1331
+  place_id: ChIJr3IPlgumIIYR1A8yAXKlaOU
+  rating: 4.6
+  reviews: 3502
+  slug: the-ritz-carlton-new-orleans
+  website: https://www.ritzcarlton.com/en/hotels/msyrz-the-ritz-carlton-new-orleans/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+- address: 317 Baronne St, New Orleans, LA 70112, USA
+  category: hotels
+  name: NOPSI Hotel, New Orleans
+  phone: (504) 962-6500
+  place_id: ChIJDw6pwwqmIIYRv7oPl6XNKNQ
+  rating: 4.4
+  reviews: 1968
+  slug: nopsi-hotel-new-orleans
+  website: https://www.nopsihotel.com/
+- address: 717 Conti St, New Orleans, LA 70130, USA
+  category: hotels
+  name: Hotel Le Marais
+  phone: (504) 525-2300
+  place_id: ChIJfzjD0Q2mIIYRZ2FUA9Kcbz8
+  rating: 4.4
+  reviews: 694
+  slug: hotel-le-marais
+  website: http://www.hotellemarais.com/
+- address: 1024 Chartres St, New Orleans, LA 70116, USA
+  category: hotels
+  name: Hotel Provincial
+  phone: (504) 581-4995
+  place_id: ChIJYf7nzxCmIIYRvB65V_BBlBU
+  rating: 4.5
+  reviews: 1241
+  slug: hotel-provincial
+  website: https://www.hotelprovincial.com/
+- address: 940 Frenchmen St, New Orleans, LA 70116, USA
+  category: activities
+  name: JAMNOLA
+  phone: (504) 233-2206
+  place_id: ChIJqSzpqRSnIIYRBC4SHLNuhu0
+  rating: 4.7
+  reviews: 2147
+  slug: jamnola
+  website: http://www.jamnola.com/
+- address: 400 Toulouse St, New Orleans, LA 70130, USA
+  category: activities
+  name: Steamboat NATCHEZ
+  phone: (504) 569-1401
+  place_id: ChIJq6q6IHOmIIYRLmTkIJGVqvY
+  rating: 4.4
+  reviews: 5153
+  slug: steamboat-natchez
+  website: https://www.steamboatnatchez.com/
+- address: 101 Magazine St, New Orleans, LA 70130, USA
+  category: activities
+  name: The Sazerac House
+  phone: (504) 910-0100
+  place_id: ChIJ2auhMI6nIIYR2KSsZbDEu8s
+  rating: 4.9
+  reviews: 4443
+  slug: the-sazerac-house
+  website: https://www.sazerachouse.com/
+- address: 2 Canal St, New Orleans, LA 70130, USA
+  category: activities
+  name: Vue Orleans Observation Deck
+  phone: (504) 285-3600
+  place_id: ChIJ1c3EE9SnIIYRkEMlvKc1FsQ
+  rating: 4.6
+  reviews: 529
+  slug: vue-orleans-observation-deck
+  website: https://vueorleans.com/
+- address: 1152 Camp St, New Orleans, LA 70130, USA
+  category: activities
+  name: Escape My Room New Orleans
+  phone: (504) 475-7580
+  place_id: ChIJ-cdaX96lIIYReBSWpXVNalQ
+  rating: 4.9
+  reviews: 1086
+  slug: escape-my-room-new-orleans
+  website: https://escapemyroom.com/new_orleans/
+- address: 7 Bamboo Rd, New Orleans, LA 70124, USA
+  category: activities
+  name: Longue Vue House and Gardens
+  phone: (504) 488-5488
+  place_id: ChIJR9tn_4ivIIYRb66xF_fdRQs
+  rating: 4.7
+  reviews: 812
+  slug: longue-vue-house-and-gardens
+  website: http://www.longuevue.com/
+- address: 1 Canal St, New Orleans, LA 70130, USA
+  category: activities
+  name: Audubon Aquarium
+  phone: (504) 565-3033
+  place_id: ChIJtW8fOW2mIIYRSEs0hhyvYCE
+  rating: 4.4
+  reviews: 16413
+  slug: audubon-aquarium
+  website: https://audubonnatureinstitute.org/aquarium
+- address: '830 Union St #101, New Orleans, LA 70112, USA'
+  category: activities
+  name: Clue Carré - New Orleans
+  phone: (504) 667-2583
+  place_id: ChIJJbZqKAumIIYRDxVpBgvieAk
+  rating: 4.8
+  reviews: 972
+  slug: clue-carr-new-orleans
+  website: http://www.cluecarre.com/
+- address: 1 Canal St, New Orleans, LA 70130, USA
+  category: activities
+  name: Audubon Insectarium
+  phone: (504) 524-2847
+  place_id: ChIJeS1sOA2mIIYRN-lt0koo1sc
+  rating: 4.6
+  reviews: 3085
+  slug: audubon-insectarium
+  website: https://audubonnatureinstitute.org/insectarium
+- address: New Orleans, LA, USA
+  category: activities
+  name: New Orleans City Park
+  phone: (504) 482-4888
+  place_id: ChIJkR7RkBWvIIYRqXHE-gsqtIU
+  rating: 4.8
+  reviews: 19942
+  slug: new-orleans-city-park
+  website: https://neworleanscitypark.org/

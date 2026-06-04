@@ -1,0 +1,13 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<p>{{ .Site.Params.description }}</p>
+
+<ul class="guide-list guide-list--full">
+  {{ range .Pages }}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    {{ with .Params.city }}<span class="tag">{{ . }}</span>{{ end }}
+  </li>
+  {{ end }}
+</ul>
+{{ end }}

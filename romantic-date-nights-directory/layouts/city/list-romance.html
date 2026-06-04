@@ -1,0 +1,115 @@
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TouristDestination",
+  "name": "{{ .Title }}",
+  "description": "{{ .Params.description }}"
+}
+</script>
+{{ end }}
+
+{{ define "main" }}
+<div class="breadcrumb">
+  <a href="/">Home</a> &rsaquo; <a href="/cities/">Cities</a> &rsaquo; {{ .Params.city }}
+</div>
+
+<!-- City hero image -->
+{{ with .Params.cityImage }}
+<div class="city-hero" style="background-image: url('{{ . }}')">
+  <div class="city-hero-overlay">
+    <h1>{{ $.Title }}</h1>
+    <p>{{ $.Params.city }} &mdash; Romantic Restaurants, Hotels &amp; Date Night Ideas</p>
+  </div>
+</div>
+{{ else }}
+<h1>{{ .Title }}</h1>
+{{ end }}
+
+<!-- In-content ad slot -->
+{{ with .Site.Params.adsensePublisherId }}{{ with $.Site.Params.adsenseSlotContent }}
+<div class="ad-container">
+  <ins class="adsbygoogle" style="display:block" data-ad-client="{{ $.Site.Params.adsensePublisherId }}" data-ad-slot="{{ . }}" data-ad-format="auto" data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{{ end }}{{ end }}
+
+<div class="page-content">
+  {{ .Content }}
+</div>
+
+<!-- Venue listings grouped by category -->
+{{ $citySlug := .File.Dir | path.Base }}
+{{ $venues := index hugo.Data.venues $citySlug }}
+
+{{ if $venues }}
+  {{ $restaurants := where $venues "category" "restaurants" }}
+  {{ $hotels      := where $venues "category" "hotels" }}
+  {{ $activities  := where $venues "category" "activities" }}
+
+  {{ if $restaurants }}
+  <section class="venue-category">
+    <h2>🍽 Romantic Restaurants</h2>
+    <div class="business-grid">
+      {{ range $restaurants }}
+      <div class="business-card">
+        <h3><a href="{{ $.RelPermalink }}{{ .slug }}/">{{ .name }}</a></h3>
+        {{ if .rating }}<div class="rating">⭐ {{ .rating }} ({{ .reviews }} reviews)</div>{{ end }}
+        {{ if .address }}<p class="address">📍 {{ .address }}</p>{{ end }}
+        {{ if .phone }}<p class="phone">📞 <a href="tel:{{ .phone }}">{{ .phone }}</a></p>{{ end }}
+        {{ if .website }}<p><a href="{{ .website }}" rel="noopener noreferrer" target="_blank">View Restaurant →</a></p>{{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{ if $hotels }}
+  <section class="venue-category">
+    <h2>🏨 Romantic Hotels &amp; Stays</h2>
+    <div class="business-grid">
+      {{ range $hotels }}
+      <div class="business-card">
+        <h3><a href="{{ $.RelPermalink }}{{ .slug }}/">{{ .name }}</a></h3>
+        {{ if .rating }}<div class="rating">⭐ {{ .rating }} ({{ .reviews }} reviews)</div>{{ end }}
+        {{ if .address }}<p class="address">📍 {{ .address }}</p>{{ end }}
+        {{ if .phone }}<p class="phone">📞 <a href="tel:{{ .phone }}">{{ .phone }}</a></p>{{ end }}
+        {{ if .website }}<p><a href="{{ .website }}" rel="noopener noreferrer" target="_blank">View Hotel →</a></p>{{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{ if $activities }}
+  <section class="venue-category">
+    <h2>💑 Couples Activities &amp; Experiences</h2>
+    <div class="business-grid">
+      {{ range $activities }}
+      <div class="business-card">
+        <h3><a href="{{ $.RelPermalink }}{{ .slug }}/">{{ .name }}</a></h3>
+        {{ if .rating }}<div class="rating">⭐ {{ .rating }} ({{ .reviews }} reviews)</div>{{ end }}
+        {{ if .address }}<p class="address">📍 {{ .address }}</p>{{ end }}
+        {{ if .phone }}<p class="phone">📞 <a href="tel:{{ .phone }}">{{ .phone }}</a></p>{{ end }}
+        {{ if .website }}<p><a href="{{ .website }}" rel="noopener noreferrer" target="_blank">Learn More →</a></p>{{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+{{ end }}
+
+<!-- Related guides -->
+{{ $city := .Params.city }}
+{{ $guides := where (where .Site.RegularPages "Type" "blog") "Params.city" $city }}
+{{ if $guides }}
+<section class="related-guides">
+  <h2>Date Night Guides for {{ $city }}</h2>
+  <ul class="guide-list">
+    {{ range $guides }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}
+{{ end }}

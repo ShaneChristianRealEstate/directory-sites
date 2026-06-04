@@ -1,0 +1,74 @@
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "{{ .Title }}",
+  "areaServed": "{{ .Params.city }}"
+}
+</script>
+{{ end }}
+
+{{ define "main" }}
+<div class="breadcrumb">
+  <a href="/">Home</a> &rsaquo; <a href="/cities/">Cities</a> &rsaquo; {{ .Params.city }}
+</div>
+
+<!-- City hero image -->
+{{ with .Params.cityImage }}
+<div class="city-hero" style="background-image: url('{{ . }}')">
+  <div class="city-hero-overlay">
+    <h1>{{ $.Title }}</h1>
+    <p>{{ $.Params.city }} &mdash; {{ $.Site.Params.niche | title }} providers</p>
+  </div>
+</div>
+{{ else }}
+<h1>{{ .Title }}</h1>
+{{ end }}
+
+<!-- In-content ad slot -->
+{{ with .Site.Params.adsensePublisherId }}{{ with $.Site.Params.adsenseSlotContent }}
+<div class="ad-container">
+  <ins class="adsbygoogle" style="display:block" data-ad-client="{{ $.Site.Params.adsensePublisherId }}" data-ad-slot="{{ . }}" data-ad-format="auto" data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{{ end }}{{ end }}
+
+<div class="page-content">
+  {{ .Content }}
+</div>
+
+<!-- Business listings from data file -->
+{{ $citySlug := .File.Dir | path.Base }}
+{{ $businesses := index hugo.Data.businesses $citySlug }}
+{{ if $businesses }}
+<section class="business-listings">
+  <h2>Top {{ $.Site.Params.niche | title }} Providers in {{ .Params.city }}</h2>
+  <div class="business-grid">
+    {{ range $businesses }}
+    <div class="business-card">
+      <h3><a href="{{ $.RelPermalink }}{{ .slug }}/">{{ .name }}</a></h3>
+      {{ if .rating }}<div class="rating">⭐ {{ .rating }} ({{ .reviews }} reviews)</div>{{ end }}
+      {{ if .address }}<p class="address">📍 {{ .address }}</p>{{ end }}
+      {{ if .phone }}<p class="phone">📞 <a href="tel:{{ .phone }}">{{ .phone }}</a></p>{{ end }}
+      {{ if .website }}<p><a href="{{ .website }}" rel="noopener noreferrer" target="_blank">Visit Website →</a></p>{{ end }}
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+<!-- Related guides for this city -->
+{{ $city := .Params.city }}
+{{ $guides := where (where .Site.RegularPages "Type" "blog") "Params.city" $city }}
+{{ if $guides }}
+<section class="related-guides">
+  <h2>Guides for {{ $city }}</h2>
+  <ul class="guide-list">
+    {{ range $guides }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}
+{{ end }}

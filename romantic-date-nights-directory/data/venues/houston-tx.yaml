@@ -1,0 +1,270 @@
+- address: 407 Main St, Houston, TX 77002, USA
+  category: restaurants
+  name: Bungalow
+  phone: (713) 393-7868
+  place_id: ChIJUywG2OG_QIYRUp64RJXu9wA
+  rating: 4.5
+  reviews: 3201
+  slug: bungalow
+  website: https://bungalowdining.com/
+- address: 1 Birdsall St, Houston, TX 77007, USA
+  category: restaurants
+  name: Brenner's on the Bayou
+  phone: (713) 868-4444
+  place_id: ChIJG3farMjAQIYRebM366xkNhs
+  rating: 4.4
+  reviews: 2996
+  slug: brenner-s-on-the-bayou
+  website: https://www.brennerssteakhouse.com/location/brenners-on-the-bayou/
+- address: 5888 Westheimer Rd, Houston, TX 77057, USA
+  category: restaurants
+  name: Winsome Prime
+  phone: (713) 534-1545
+  place_id: ChIJucAC77HDQIYR0kYLBnTacVw
+  rating: 4.8
+  reviews: 6556
+  slug: winsome-prime
+  website: http://www.winsomeprime.com/
+- address: 3258 Westheimer Rd, Houston, TX 77098, USA
+  category: restaurants
+  name: State of Grace
+  phone: (832) 942-5080
+  place_id: ChIJJ0aTHObAQIYRPKlKBtryX9Y
+  rating: 4.6
+  reviews: 1994
+  slug: state-of-grace
+  website: http://www.stateofgracetx.com/
+- address: 2011 Ella Blvd, Houston, TX 77008, USA
+  category: restaurants
+  name: Rainbow Lodge
+  phone: (713) 861-8666
+  place_id: ChIJW_s0SRvHQIYREXn0DXARk9U
+  rating: 4.5
+  reviews: 2839
+  slug: rainbow-lodge
+  website: http://rainbow-lodge.com/
+- address: 110 Vintage Park Blvd Building J Suite P, Houston, TX 77070, USA
+  category: restaurants
+  name: The Chef's Table
+  phone: (832) 559-7489
+  place_id: ChIJnb8KIafTQIYRZvEohfcGmnk
+  rating: 4.8
+  reviews: 1685
+  slug: the-chef-s-table
+  website: https://www.chefstablehouston.com/
+- address: 1515 Texas Ave, Houston, TX 77002, USA
+  category: restaurants
+  name: Potente
+  phone: (713) 237-1515
+  place_id: ChIJh4_KFyS_QIYRnyC9jmI-2F0
+  rating: 4.7
+  reviews: 935
+  slug: potente
+  website: https://www.potentehouston.com/
+- address: 3750 Westheimer Rd, Houston, TX 77027, USA
+  category: restaurants
+  name: Fielding's Steak
+  phone: (713) 769-0670
+  place_id: ChIJFeqmp4LBQIYRaPTv7SmphBw
+  rating: 4.8
+  reviews: 558
+  slug: fielding-s-steak
+  website: https://www.fieldings.com/
+- address: 3300 Smith St, Houston, TX 77006, USA
+  category: restaurants
+  name: Brennan's Houston
+  phone: (713) 522-9711
+  place_id: ChIJh1u1L2-_QIYRS8CnhxGTg9A
+  rating: 4.6
+  reviews: 3315
+  slug: brennan-s-houston
+  website: https://www.brennanshouston.com/
+- address: 5500 Main St Suite 122, Houston, TX 77004, USA
+  category: restaurants
+  name: Le Jardinier
+  phone: (713) 714-3015
+  place_id: ChIJIUTbMUu_QIYRvNV3_RXqZDw
+  rating: 4.5
+  reviews: 675
+  slug: le-jardinier
+  website: https://www.lejardinier-houston.com/
+- address: 800 Sorella Ct, Houston, TX 77024, USA
+  category: hotels
+  name: The Moran Hotel CITYCENTRE
+  phone: (713) 973-1600
+  place_id: ChIJjWAVFrPEQIYR0m85hfgDlBE
+  rating: 4.3
+  reviews: 1861
+  slug: the-moran-hotel-citycentre
+  website: https://themoranhotel.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb
+- address: 941 Heights Blvd, Houston, TX 77008, USA
+  category: hotels
+  name: Sara's Inn on the Boulevard
+  phone: (713) 868-1130
+  place_id: ChIJ-Q0ZSVnHQIYRcm3IWg5tdXI
+  rating: 4.7
+  reviews: 269
+  slug: sara-s-inn-on-the-boulevard
+  website: http://www.saras.com/
+- address: 520 Sampson St, Houston, TX 77003, USA
+  category: hotels
+  name: Wanderstay Boutique Hotel
+  phone: (281) 214-2661
+  place_id: ChIJE_971qO_QIYRUdYtECX-Rb0
+  rating: 4.8
+  reviews: 421
+  slug: wanderstay-boutique-hotel
+  website: http://www.wanderstayboutiquehotel.com/
+- address: 2222 W Loop S, Houston, TX 77027, USA
+  category: hotels
+  name: The Royal Sonesta Houston Galleria
+  phone: (713) 627-7600
+  place_id: ChIJeXlspWrBQIYRO4BNMdQwCRQ
+  rating: 4.2
+  reviews: 3099
+  slug: the-royal-sonesta-houston-galleria
+  website: https://www.sonesta.com/royal-sonesta/tx/houston/royal-sonesta-houston-galleria?utm_source=google&utm_medium=organic&utm_campaign=gmb
+- address: 4 Riverway Dr, Houston, TX 77056, USA
+  category: hotels
+  name: Omni Houston Hotel
+  phone: (713) 871-8181
+  place_id: ChIJ01CO_UjBQIYRkIIPxqlpUoU
+  rating: 4.3
+  reviews: 1913
+  slug: omni-houston-hotel
+  website: https://www.omnihotels.com/hotels/houston?utm_source=gmblisting&utm_medium=organic
+- address: 2800 Brazos St, Houston, TX 77006, USA
+  category: hotels
+  name: La Maison in Midtown
+  phone: (713) 529-3600
+  place_id: ChIJlfsJoWm_QIYRrmKWPklmDxw
+  rating: 4.9
+  reviews: 221
+  slug: la-maison-in-midtown
+  website: https://www.lamaisonmidtown.com/
+- address: 4110 Loretto Dr, Houston, TX 77006, USA
+  category: hotels
+  name: Hotel Saint Augustine
+  phone: (832) 844-0057
+  place_id: ChIJE9thT57BQIYRKKURG2AK59U
+  rating: 4.8
+  reviews: 253
+  slug: hotel-saint-augustine
+  website: https://www.hyatt.com/bunkhouse-hotels/en-US/iahkb-hotel-saint-augustine?src=corp_lclb_google_seo_iahkb&utm_source=google&utm_medium=organic&utm_campaign=lmr
+- address: 1919 Briar Oaks Ln, Houston, TX 77027, USA
+  category: hotels
+  name: Houston Grand Hotel - River Oaks
+  phone: (713) 840-7600
+  place_id: ChIJ1wqP7D3BQIYRN9xCJrWmj9M
+  rating: 4.5
+  reviews: 1137
+  slug: houston-grand-hotel-river-oaks
+  website: https://www.marriott.com/en-us/hotels/houlx-houston-grand-hotel-river-oaks/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+- address: 5701 Main St, Houston, TX 77005, USA
+  category: hotels
+  name: Hotel ZaZa Houston Museum District
+  phone: (713) 526-1991
+  place_id: ChIJTeRJv4G_QIYRi40tu_gfEsk
+  rating: 4.5
+  reviews: 3081
+  slug: hotel-zaza-houston-museum-district
+  website: https://www.hotelzaza.com/houston-museum-district?utm_campaign=Google%20My%20Business&utm_source=google&utm_medium=Local%20Search
+- address: 1777 Walker St, Houston, TX 77010, USA
+  category: hotels
+  name: Marriott Marquis Houston
+  phone: (713) 654-1777
+  place_id: ChIJvWr52iO_QIYRPxXgLyOB6fU
+  rating: 4.4
+  reviews: 8106
+  slug: marriott-marquis-houston
+  website: https://www.marriott.com/en-us/hotels/houmq-marriott-marquis-houston/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+- address: 5060 W Alabama St STE 2D, Houston, TX 77056, USA
+  category: activities
+  name: Museum of Illusions Houston
+  phone: (713) 804-2199
+  place_id: ChIJ_4RgI07BQIYRGdqQxH1AQuI
+  rating: 4.7
+  reviews: 2045
+  slug: museum-of-illusions-houston
+  website: https://moihouston.com/
+- address: 1200 McKinney St Unit 313 3rd Floor, Houston, TX 77010, USA
+  category: activities
+  name: Immersive Gamebox
+  phone: (888) 471-4126
+  place_id: ChIJW6kbVYC_QIYRb-kc3i0D54c
+  rating: 4.9
+  reviews: 2595
+  slug: immersive-gamebox
+  website: https://www.immersivegamebox.com/venues/htx-the-highlight-houston-texas
+- address: 20225 Katy Fwy, Katy, TX 77450, USA
+  category: activities
+  name: Activate Games
+  phone: (281) 888-8258
+  place_id: ChIJRbBSJXLZQIYRCo3TkAwrZUk
+  rating: 4.9
+  reviews: 2591
+  slug: activate-games
+  website: https://playactivate.com/katy?utm_source=google&utm_medium=organic&utm_campaign=gmb-katy
+- address: '2103 Lyons Ave #300, Houston, TX 77020, USA'
+  category: activities
+  name: Beat The Bomb Houston
+  phone: (518) 207-9440
+  place_id: ChIJ85BrXaW_QIYRwTvrQszVy8c
+  rating: 5
+  reviews: 5017
+  slug: beat-the-bomb-houston
+  website: https://www.beatthebomb.com/locations/houston
+- address: 3303 Kirby Dr, Houston, TX 77098, USA
+  category: activities
+  name: Color Factory Houston
+  phone: ''
+  place_id: ChIJf7HmKbLBQIYRqkG98ccX_ps
+  rating: 4.6
+  reviews: 2674
+  slug: color-factory-houston
+  website: https://www.colorfactory.co/locations/houston
+- address: 2306 S Texas 6, Houston, TX 77077, USA
+  category: activities
+  name: Seismique
+  phone: (346) 202-6006
+  place_id: ChIJr95ma6rdQIYRlca_5pUiY9k
+  rating: 4.4
+  reviews: 4515
+  slug: seismique
+  website: https://www.seismique.com/
+- address: '794 Sorella Ct #127, Houston, TX 77024, USA'
+  category: activities
+  name: The Escape Game Houston (CityCentre)
+  phone: (713) 999-1496
+  place_id: ChIJOzcF1LLEQIYRpkmtlUxhumI
+  rating: 5
+  reviews: 12916
+  slug: the-escape-game-houston-citycentre
+  website: https://theescapegame.com/houston/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_id=hou-citycentre
+- address: '125 W Gray St #100, Houston, TX 77019, USA'
+  category: activities
+  name: Game Show Studio Houston
+  phone: (346) 843-0101
+  place_id: ChIJ_xtEc6S_QIYRmOMvxSUa2Ao
+  rating: 5
+  reviews: 15089
+  slug: game-show-studio-houston
+  website: https://www.gameshowstudio.com/houston/
+- address: 536 Sawdust Rd Suite C, The Woodlands, TX 77380, USA
+  category: activities
+  name: Activate Games
+  phone: (281) 475-4433
+  place_id: ChIJwcxtZ-41R4YR_-9UoHO_yIQ
+  rating: 5
+  reviews: 2300
+  slug: activate-games
+  website: https://playactivate.com/woodlands?utm_source=google&utm_medium=organic&utm_campaign=gmb-woodlands
+- address: '7026 Old Katy Rd #310, Houston, TX 77024, USA'
+  category: activities
+  name: Strange Bird Immersive Escape Rooms
+  phone: (832) 413-2853
+  place_id: ChIJW9HwLU2_QIYRSOTUra71gPA
+  rating: 5
+  reviews: 367
+  slug: strange-bird-immersive-escape-rooms
+  website: https://strangebirdimmersive.com/

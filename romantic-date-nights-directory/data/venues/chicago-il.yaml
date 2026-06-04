@@ -1,0 +1,270 @@
+- address: 302 N Green St 3rd Floor, Chicago, IL 60607, USA
+  category: restaurants
+  name: Aba
+  phone: (773) 645-1400
+  place_id: ChIJHy_uxjQtDogREgbDgcjizn8
+  rating: 4.8
+  reviews: 9913
+  slug: aba
+  website: http://www.abarestaurants.com/
+- address: 564 W Randolph St, Chicago, IL 60661, USA
+  category: restaurants
+  name: Alla Vita
+  phone: (312) 667-0104
+  place_id: ChIJEUAV9zMtDogRJbm6cdw59JE
+  rating: 4.8
+  reviews: 5077
+  slug: alla-vita
+  website: https://www.allavitachicago.com/
+- address: 809 W Randolph St, Chicago, IL 60607, USA
+  category: restaurants
+  name: Girl & The Goat
+  phone: (312) 492-6262
+  place_id: ChIJs8mbNsUsDogRUnpg-b_IK5E
+  rating: 4.7
+  reviews: 7813
+  slug: girl-the-goat
+  website: http://www.girlandthegoat.com/
+- address: 218 W Kinzie St, Chicago, IL 60654, USA
+  category: restaurants
+  name: Bavette's Bar & Boeuf
+  phone: (312) 624-8154
+  place_id: ChIJyauRlLYsDogRE_Hnbxx7V8E
+  rating: 4.7
+  reviews: 4003
+  slug: bavette-s-bar-boeuf
+  website: https://bavettessteakhouse.com/
+- address: 233 N Canal St, Chicago, IL 60606, USA
+  category: restaurants
+  name: Gibsons Italia
+  phone: (312) 414-1100
+  place_id: ChIJd-VJcsgsDogRP0yORZrIpVQ
+  rating: 4.7
+  reviews: 4210
+  slug: gibsons-italia
+  website: https://www.gibsonsitalia.com/
+- address: 307 N Green St, Chicago, IL 60607, USA
+  category: restaurants
+  name: La Serre
+  phone: (312) 500-1128
+  place_id: ChIJ478txi0tDogRne39O3ZKL5U
+  rating: 4.7
+  reviews: 1147
+  slug: la-serre
+  website: http://www.dinelaserre.com/
+- address: 8 W Maple St, Chicago, IL 60610, USA
+  category: restaurants
+  name: Maple & Ash
+  phone: (312) 944-8888
+  place_id: ChIJE8GjKE7TD4gR9CouUZM2Gis
+  rating: 4.5
+  reviews: 4187
+  slug: maple-ash
+  website: http://www.mapleandash.com/
+- address: 87 E Wacker Dr, Chicago, IL 60601, USA
+  category: restaurants
+  name: Ocean Prime
+  phone: (312) 428-4344
+  place_id: ChIJP0_743EtDogRWv6-GyI8HVw
+  rating: 4.7
+  reviews: 1482
+  slug: ocean-prime
+  website: https://www.ocean-prime.com/locations-menus/chicago
+- address: 1729 N Halsted St, Chicago, IL 60614, USA
+  category: restaurants
+  name: Boka
+  phone: (312) 337-6070
+  place_id: ChIJg7aSMj3TD4gRlHUmzqlebUI
+  rating: 4.7
+  reviews: 2056
+  slug: boka
+  website: http://www.bokachicago.com/
+- address: '59 W Hubbard St #2, Chicago, IL 60654, USA'
+  category: restaurants
+  name: Il Porcellino
+  phone: (312) 595-0800
+  place_id: ChIJJ3QOj7EsDogRnP9Ty8gAjlU
+  rating: 4.8
+  reviews: 4943
+  slug: il-porcellino
+  website: http://ilporcellinochicago.com/
+- address: 2955 Mannheim Rd, Franklin Park, IL 60131, USA
+  category: hotels
+  name: Ambiance
+  phone: (773) 463-8543
+  place_id: ChIJPUrYXgW1D4gR5b9N9yQI33I
+  rating: 4.4
+  reviews: 782
+  slug: ambiance
+  website: http://www.verycoolrooms.com/
+- address: 5335 S Pulaski Rd, Chicago, IL 60632, USA
+  category: hotels
+  name: AXIS
+  phone: (773) 463-8543
+  place_id: ChIJj3bAF4MxDogRiKis3KINaJw
+  rating: 4.5
+  reviews: 639
+  slug: axis
+  website: http://www.verycoolrooms.com/
+- address: 107 S Scoville Ave, Oak Park, IL 60302, USA
+  category: hotels
+  name: Harvey House Inn
+  phone: (708) 955-7254
+  place_id: ChIJ4x6R-bo0DogR0cuB7u8h9Pg
+  rating: 4.6
+  reviews: 97
+  slug: harvey-house-inn
+  website: http://www.harveyhousebb.com/
+- address: 85 E Wacker Dr, Chicago, IL 60601, USA
+  category: hotels
+  name: LondonHouse Chicago, Curio Collection by Hilton
+  phone: (312) 357-1200
+  place_id: ChIJS-Hf_a4sDogRmcrVlxAacIU
+  rating: 4.5
+  reviews: 6503
+  slug: londonhouse-chicago-curio-collection-by-hilton
+  website: https://www.hilton.com/en/hotels/chilhqq-londonhouse-chicago/?SEO_id=GMB-AMER-QQ-CHILHQQ&y_source=1_MzI2NDc5Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+- address: 140 E Walton Pl, Chicago, IL 60611, USA
+  category: hotels
+  name: The Drake
+  phone: (312) 787-2200
+  place_id: ChIJjUO4_1PTD4gRMd5_OkFpfd4
+  rating: 4.3
+  reviews: 4600
+  slug: the-drake
+  website: https://www.hilton.com/en/hotels/chidhhh-the-drake/?SEO_id=GMB-AMER-HH-CHIDHHH&y_source=1_MTIyMDc4OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+- address: 20 E Chestnut St, Chicago, IL 60611, USA
+  category: hotels
+  name: Sofitel Chicago Magnificent Mile
+  phone: (312) 324-4000
+  place_id: ChIJP-iYaVLTD4gRwrAZlmMMyp0
+  rating: 4.6
+  reviews: 4068
+  slug: sofitel-chicago-magnificent-mile
+  website: http://sofitel.accor.com/hotels/2993?merchantid=seo-maps-US-2993&sourceid=aw-cen&utm_source=google+Maps&utm_medium=seo+maps&utm_campaign=seo+maps&utm_term=Sofitel-Launch
+- address: 900 E Grand Ave, Chicago, IL 60611, USA
+  category: hotels
+  name: Sable at Navy Pier Chicago, Curio Collection by Hilton
+  phone: (872) 710-5700
+  place_id: ChIJdYOdBNorDogRV2PUh5HdHdk
+  rating: 4.4
+  reviews: 1627
+  slug: sable-at-navy-pier-chicago-curio-collection-by-hilton
+  website: https://www.hilton.com/en/hotels/chipiqq-sable-at-navy-pier-chicago/?SEO_id=GMB-AMER-QQ-CHIPIQQ&y_source=1_MTc5OTg2OTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+- address: 228 E Ontario St, Chicago, IL 60611, USA
+  category: hotels
+  name: Hotel EMC2, Autograph Collection
+  phone: (312) 915-0000
+  place_id: ChIJxVjCGassDogROayz_ZoQJaM
+  rating: 4.6
+  reviews: 1517
+  slug: hotel-emc2-autograph-collection
+  website: https://www.marriott.com/en-us/hotels/chidx-hotel-emc2-autograph-collection/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+- address: 1411 E 53rd St, Chicago, IL 60615, USA
+  category: hotels
+  name: SOPHY - Hyde Park
+  phone: (773) 289-1003
+  place_id: ChIJZ1kPzG0pDogRXC1a9kqDczQ
+  rating: 4.5
+  reviews: 880
+  slug: sophy-hyde-park
+  website: https://sophyhotel.com/?utm_source=gmblisting&utm_medium=organic
+- address: 455 N Park Dr, Chicago, IL 60611, USA
+  category: hotels
+  name: Loews Chicago Hotel
+  phone: (312) 840-6600
+  place_id: ChIJkxZI_6ksDogR7OPMcT6N4Xs
+  rating: 4.6
+  reviews: 4194
+  slug: loews-chicago-hotel
+  website: https://www.loewshotels.com/chicago-downtown
+- address: 25 E Washington St, Chicago, IL 60602, USA
+  category: activities
+  name: Museum of Illusions Chicago
+  phone: (312) 265-0966
+  place_id: ChIJSTnTl4UtDogRqnrqx0RZyMA
+  rating: 4.6
+  reviews: 4888
+  slug: museum-of-illusions-chicago
+  website: https://moichicago.com/?utm_source=Google+GMB&utm_medium=website
+- address: 233 S Wacker Dr Lower Level 2, Chicago, IL 60606, USA
+  category: activities
+  name: Color Factory Chicago
+  phone: ''
+  place_id: ChIJBwsA3f4tDogRz-pSLpIoDbo
+  rating: 4.7
+  reviews: 1580
+  slug: color-factory-chicago
+  website: https://www.colorfactory.co/locations/chicago
+- address: 875 N Michigan Ave 94th floor, Chicago, IL 60611, USA
+  category: activities
+  name: 360 CHICAGO
+  phone: (888) 875-8439
+  place_id: ChIJNbKQElTTD4gRdOsDd3qTFHM
+  rating: 4.5
+  reviews: 20600
+  slug: 360-chicago
+  website: https://360chicago.com/?utm_source=GMBlisting&utm_medium=organic&utm_content=listing
+- address: 233 S Wacker Dr, Chicago, IL 60606, USA
+  category: activities
+  name: Skydeck Chicago
+  phone: (312) 875-9447
+  place_id: ChIJu_tp4r4sDogR_dRFCX8wCc8
+  rating: 4.6
+  reviews: 36615
+  slug: skydeck-chicago
+  website: https://theskydeck.com/?utm_source=google&utm_medium=organic&utm_campaign=googlemybusiness
+- address: 42 E Ontario St, Chicago, IL 60611, USA
+  category: activities
+  name: The Escape Game Chicago
+  phone: (312) 453-7753
+  place_id: ChIJzwODHK0sDogRKGL7CQaALgg
+  rating: 5
+  reviews: 15604
+  slug: the-escape-game-chicago
+  website: https://theescapegame.com/chicago/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_id=chicago
+- address: 1200 S DuSable Lake Shore Dr, Chicago, IL 60605, USA
+  category: activities
+  name: Shedd Aquarium
+  phone: (312) 939-2438
+  place_id: ChIJ-XW3X2MrDogR3_tQ3-OdBTI
+  rating: 4.5
+  reviews: 32516
+  slug: shedd-aquarium
+  website: https://www.sheddaquarium.org/
+- address: 600 E Grand Ave, Chicago, IL 60611, USA
+  category: activities
+  name: Amazing Chicago's Funhouse Maze
+  phone: (312) 595-5375
+  place_id: ChIJj3c_ZFIrDogRyCXR3OOMWbY
+  rating: 4.1
+  reviews: 328
+  slug: amazing-chicago-s-funhouse-maze
+  website: http://amazingchicago.com/
+- address: 108 N State St Suite 150, Chicago, IL 60602, USA
+  category: activities
+  name: Verse Immersive Chicago
+  phone: (708) 402-8920
+  place_id: ChIJOeA3DzQrDogRCu2bB5WSJxw
+  rating: 4.1
+  reviews: 580
+  slug: verse-immersive-chicago
+  website: http://versechicago.com/
+- address: 1000 Lake Cook Rd, Glencoe, IL 60022, USA
+  category: activities
+  name: Chicago Botanic Garden
+  phone: (847) 835-6801
+  place_id: ChIJ-VSaNEPBD4gRKyqG8-_zd5Y
+  rating: 4.8
+  reviews: 8049
+  slug: chicago-botanic-garden
+  website: https://www.chicagobotanic.org/
+- address: 1130 W Monroe St, Chicago, IL 60607, USA
+  category: activities
+  name: WNDR Museum
+  phone: ''
+  place_id: ChIJtzAOo1otDogRF3FxbJ0GjD0
+  rating: 4.1
+  reviews: 4521
+  slug: wndr-museum
+  website: https://wndrmuseum.com/location/chicago/

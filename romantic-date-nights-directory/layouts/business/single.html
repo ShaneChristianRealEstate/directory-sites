@@ -1,0 +1,66 @@
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "{{ .Params.businessName }}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{ .Params.address }}"
+  },
+  {{ if .Params.phone }}"telephone": "{{ .Params.phone }}",{{ end }}
+  {{ if .Params.website }}"url": "{{ .Params.website }}",{{ end }}
+  {{ if .Params.rating }}"aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ .Params.rating }}",
+    "reviewCount": "{{ .Params.reviews }}"
+  },{{ end }}
+  "areaServed": "{{ .Params.city }}"
+}
+</script>
+{{ end }}
+
+{{ define "main" }}
+{{ $citySlug := .Params.city | urlize }}
+<div class="breadcrumb">
+  <a href="/">Home</a> &rsaquo;
+  <a href="/cities/">Cities</a> &rsaquo;
+  <a href="/cities/{{ $citySlug }}/">{{ .Params.city }}</a> &rsaquo;
+  {{ .Params.businessName }}
+</div>
+
+<div class="business-detail">
+  <h1>{{ .Title }}</h1>
+
+  <div class="business-meta">
+    {{ if .Params.rating }}
+    <span class="rating">⭐ {{ .Params.rating }}/5 ({{ .Params.reviews }} reviews)</span>
+    {{ end }}
+    {{ if .Params.address }}
+    <span class="address">📍 {{ .Params.address }}</span>
+    {{ end }}
+    {{ if .Params.phone }}
+    <span class="phone">📞 <a href="tel:{{ .Params.phone }}">{{ .Params.phone }}</a></span>
+    {{ end }}
+    {{ if .Params.website }}
+    <a href="{{ .Params.website }}" class="cta-button" rel="noopener noreferrer" target="_blank">Visit Website →</a>
+    {{ end }}
+  </div>
+
+  <!-- In-content ad slot -->
+  {{ with .Site.Params.adsensePublisherId }}{{ with $.Site.Params.adsenseSlotContent }}
+  <div class="ad-container">
+    <ins class="adsbygoogle" style="display:block" data-ad-client="{{ $.Site.Params.adsensePublisherId }}" data-ad-slot="{{ . }}" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+  {{ end }}{{ end }}
+
+  <div class="page-content">
+    {{ .Content }}
+  </div>
+</div>
+
+<div class="back-link">
+  <a href="/cities/{{ $citySlug }}/">&larr; Back to {{ .Params.city }} listings</a>
+</div>
+{{ end }}

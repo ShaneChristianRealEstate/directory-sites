@@ -1,0 +1,270 @@
+- address: 800 W Cesar Chavez St Ste PP110, Austin, TX 78701, USA
+  category: restaurants
+  name: Ember Kitchen
+  phone: (512) 291-6846
+  place_id: ChIJ0ZHePHK1RIYR2vIKkhQevxQ
+  rating: 4.8
+  reviews: 2579
+  slug: ember-kitchen
+  website: https://www.emberatx.com/
+- address: Rooftop, 1211 W Riverside Dr, Austin, TX 78704, USA
+  category: restaurants
+  name: Nido
+  phone: (512) 580-1183
+  place_id: ChIJy3FovG-1RIYRSwDtdD_AfC0
+  rating: 4.5
+  reviews: 1510
+  slug: nido
+  website: https://www.thelorenhotels.com/cuisine/restaurant#nido
+- address: '3825 Lake Austin Blvd #201, Austin, TX 78703, USA'
+  category: restaurants
+  name: Quince Lakehouse
+  phone: (512) 334-9426
+  place_id: ChIJfQz_nL21RIYR0jchRACL6P8
+  rating: 4.6
+  reviews: 2503
+  slug: quince-lakehouse
+  website: https://quincesma.com/
+- address: 1204 W Lynn St, Austin, TX 78703, USA
+  category: restaurants
+  name: Jeffrey's
+  phone: (512) 477-5584
+  place_id: ChIJn64e4Wu1RIYRGNdMhqJ5jNk
+  rating: 4.7
+  reviews: 1168
+  slug: jeffrey-s
+  website: http://jeffreysofaustin.com/
+- address: 304 E Cesar Chavez St, Austin, TX 78701, USA
+  category: restaurants
+  name: Zanzibar
+  phone: (737) 787-6969
+  place_id: ChIJFaJVsLS1RIYRcUZU0nlHQJ8
+  rating: 4.8
+  reviews: 8482
+  slug: zanzibar
+  website: https://www.zanzibaratx.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing
+- address: 624 W 34th St, Austin, TX 78705, USA
+  category: restaurants
+  name: Honey Moon Spirit Lounge
+  phone: (737) 209-0319
+  place_id: ChIJ2TVDkSHLRIYRcMu6D8p_-2I
+  rating: 4.5
+  reviews: 562
+  slug: honey-moon-spirit-lounge
+  website: http://www.honeymoonatx.com/
+- address: 1011 S Congress Ave Bldg 2 Suite 180, Austin, TX 78704, USA
+  category: restaurants
+  name: Aba Austin
+  phone: (737) 273-0199
+  place_id: ChIJDfhk1ja1RIYR3NIISvjn88k
+  rating: 4.7
+  reviews: 7677
+  slug: aba-austin
+  website: https://www.abarestaurants.com/austin/
+- address: '607 W 3rd St #105, Austin, TX 78701, USA'
+  category: restaurants
+  name: Hestia
+  phone: (512) 333-0737
+  place_id: ChIJlWBjs7-1RIYRsJt0C41E558
+  rating: 4.5
+  reviews: 992
+  slug: hestia
+  website: http://hestiaaustin.com/
+- address: 110 E 2nd St, Austin, TX 78701, USA
+  category: restaurants
+  name: Dean's Italian Steakhouse
+  phone: (512) 608-4490
+  place_id: ChIJVycNKfm1RIYRTy7RJBzfPtc
+  rating: 4.9
+  reviews: 3260
+  slug: dean-s-italian-steakhouse
+  website: https://www.deanssteakhouseaustin.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing
+- address: 110 San Antonio St Ste R140, Austin, TX 78701, USA
+  category: restaurants
+  name: The Guest House Austin
+  phone: (512) 720-0000
+  place_id: ChIJqQ7aNPa1RIYREETlax1ArpU
+  rating: 4.7
+  reviews: 2420
+  slug: the-guest-house-austin
+  website: https://www.welcometgh.com/
+- address: 110 The Cir, Austin, TX 78704, USA
+  category: hotels
+  name: Frame Hotel - Treehouse
+  phone: (512) 737-1010
+  place_id: ChIJF3Ifyv20RIYRWboicDUpEfo
+  rating: 4.8
+  reviews: 142
+  slug: frame-hotel-treehouse
+  website: https://framehotel.com/
+- address: 1123 E 11th St, Austin, TX 78702, USA
+  category: hotels
+  name: The Frances Modern Inn
+  phone: (512) 675-0011
+  place_id: ChIJww-QBru1RIYR5UIQahtdrx4
+  rating: 4.9
+  reviews: 585
+  slug: the-frances-modern-inn
+  website: http://www.thefrancesmoderninn.com/
+- address: 604 Brazos St, Austin, TX 78701, USA
+  category: hotels
+  name: The Driskill - The Unbound Collection by Hyatt
+  phone: (512) 439-1234
+  place_id: ChIJ4yWPfKe1RIYRui8YMpjSzaA
+  rating: 4.6
+  reviews: 5387
+  slug: the-driskill-the-unbound-collection-by-hyatt
+  website: https://www.hyatt.com/unbound-collection/en-US/aushd-the-driskill?src=corp_lclb_google_seo_aushd&utm_source=google&utm_medium=organic&utm_campaign=lmr
+- address: 110 W Elizabeth St, Austin, TX 78704, USA
+  category: hotels
+  name: Frame Hotel - SoCo
+  phone: (512) 737-1010
+  place_id: ChIJxz274_y0RIYRLjGbL_f0JgI
+  rating: 4.8
+  reviews: 55
+  slug: frame-hotel-soco
+  website: http://www.framehotel.com/
+- address: 1901 San Antonio St, Austin, TX 78705, USA
+  category: hotels
+  name: The Otis Hotel Austin, Autograph Collection
+  phone: (512) 473-8900
+  place_id: ChIJK2dOW1y1RIYRIPrVnBhPoaQ
+  rating: 4.7
+  reviews: 1106
+  slug: the-otis-hotel-austin-autograph-collection
+  website: https://www.marriott.com/en-us/hotels/ausak-the-otis-hotel-austin-autograph-collection/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+- address: 8212 Barton Club Dr, Austin, TX 78735, USA
+  category: hotels
+  name: Omni Barton Creek Resort & Spa
+  phone: (512) 329-4000
+  place_id: ChIJTxUL5_c1W4YRwUFv11WTBzA
+  rating: 4.5
+  reviews: 2648
+  slug: omni-barton-creek-resort-spa
+  website: https://www.omnihotels.com/hotels/austin-barton-creek?utm_source=gmblisting&utm_medium=organic
+- address: 701 N Congress Ave, Austin, TX 78701, USA
+  category: hotels
+  name: The Stephen F. Austin Royal Sonesta Hotel
+  phone: (512) 457-8800
+  place_id: ChIJ6WDC6Am1RIYRrrlq89b7oQs
+  rating: 4.4
+  reviews: 1495
+  slug: the-stephen-f-austin-royal-sonesta-hotel
+  website: https://www.sonesta.com/royal-sonesta/tx/austin/stephen-f-austin-royal-sonesta-hotel?utm_source=google&utm_medium=organic&utm_campaign=gmb
+- address: 7744 TX-130, Austin, TX 78724, USA
+  category: hotels
+  name: 7744 Ranch
+  phone: (512) 765-0094
+  place_id: ChIJvRIkQ3u5RIYRicr8Oh6vlH4
+  rating: 4.9
+  reviews: 60
+  slug: 7744-ranch
+  website: http://7744ranch.com/
+- address: 1108 Blanco St, Austin, TX 78703, USA
+  category: hotels
+  name: Brava House
+  phone: (512) 520-7132
+  place_id: ChIJASdKBG21RIYRV5xf3GGtKcQ
+  rating: 4.9
+  reviews: 124
+  slug: brava-house
+  website: http://www.bravahouse.com/
+- address: 13500 Farm to Market Rd 2769, Austin, TX 78726, USA
+  category: hotels
+  name: Miraval Austin Resort and Spa
+  phone: (855) 234-1672
+  place_id: ChIJ6WY13uczW4YR_Oublypnq6M
+  rating: 4.2
+  reviews: 466
+  slug: miraval-austin-resort-and-spa
+  website: https://www.hyatt.com/en-US/hotel/texas/miraval-austin-resort-and-spa/ausob?src=corp_lclb_google_seo_ausob&utm_source=google&utm_medium=organic&utm_campaign=lmr
+- address: '11010 Domain Dr #100, Austin, TX 78758, USA'
+  category: activities
+  name: Museum of Illusions Austin
+  phone: (512) 265-8899
+  place_id: ChIJCfovQivNRIYRkNWw-puG0Q0
+  rating: 4.5
+  reviews: 2329
+  slug: museum-of-illusions-austin
+  website: https://moiaustin.com/
+- address: 3220 Feathergrass Ct, Austin, TX 78758, USA
+  category: activities
+  name: Activate Games
+  phone: (512) 813-0098
+  place_id: ChIJAToytr7NRIYRDs74SM-RTEI
+  rating: 4.8
+  reviews: 380
+  slug: activate-games
+  website: https://playactivate.com/domain?utm_source=google&utm_medium=organic&utm_campaign=gmb-domain
+- address: 405 Red River St, Austin, TX 78701, USA
+  category: activities
+  name: The Escape Game Austin
+  phone: (512) 643-0043
+  place_id: ChIJRz4gnqi1RIYRBsmXj82av1Y
+  rating: 5
+  reviews: 17792
+  slug: the-escape-game-austin
+  website: https://theescapegame.com/austin/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_id=austin
+- address: 110 E 2nd St, Austin, TX 78701, USA
+  category: activities
+  name: Edge Rooftop
+  phone: (512) 608-4503
+  place_id: ChIJIxradQi1RIYRjCgHBG2nRF8
+  rating: 4.9
+  reviews: 5315
+  slug: edge-rooftop
+  website: https://www.edgerooftop.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing
+- address: 3312 Randolph Rd, Austin, TX 78722, USA
+  category: activities
+  name: The Eureka Room
+  phone: (512) 766-9955
+  place_id: ChIJR7oJHQi1RIYRbPGCDKFl34g
+  rating: 4.5
+  reviews: 398
+  slug: the-eureka-room
+  website: https://eurekaroom.com/?utm_source=googlemybusiness&utm_medium=organic
+- address: 5808 McKinney Falls Pkwy, Austin, TX 78744, USA
+  category: activities
+  name: McKinney Falls State Park
+  phone: (512) 243-1643
+  place_id: ChIJi7M4Nb6zRIYRk8YBYI8Jg_s
+  rating: 4.6
+  reviews: 8078
+  slug: mckinney-falls-state-park
+  website: https://tpwd.texas.gov/state-parks/mckinney-falls
+- address: 412 N Congress Ave D, Austin, TX 78701, USA
+  category: activities
+  name: Speakeasy
+  phone: (512) 477-2789
+  place_id: ChIJ2VVCTgi1RIYRdZUyhqoZk_s
+  rating: 4.4
+  reviews: 1954
+  slug: speakeasy
+  website: http://www.speakeasyaustin.com/
+- address: 979 Springdale Rd Suite 112, Austin, TX 78702, USA
+  category: activities
+  name: Slick Dick's Wild Ride
+  phone: (512) 688-6564
+  place_id: ChIJTSaATWu3RIYRPCybSEBCPbg
+  rating: 4.9
+  reviews: 243
+  slug: slick-dick-s-wild-ride
+  website: https://www.slickdicks.com/
+- address: 9900 I-35 Ste M500 Suite 3, Austin, TX 78748, USA
+  category: activities
+  name: Escape Rooms of Austin
+  phone: (512) 982-4307
+  place_id: ChIJXTe6QeZNW4YRLecaQ_x7k_g
+  rating: 5
+  reviews: 85
+  slug: escape-rooms-of-austin
+  website: https://zerolatencysouthaustin.com/escape-rooms
+- address: 310 E 5th St., Austin, TX 78701, USA
+  category: activities
+  name: Azul Rooftop
+  phone: (512) 792-5647
+  place_id: ChIJVf7pl6e1RIYREEeVcaNdILo
+  rating: 4.7
+  reviews: 1238
+  slug: azul-rooftop
+  website: https://www.azulrooftopatx.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing
