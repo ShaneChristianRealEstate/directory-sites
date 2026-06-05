@@ -1,10 +1,10 @@
-baseURL = "https://example.com"
+baseURL = "https://romanticspotsnearme.com"
 locale = "en-US"
-title = "Best Romantic Date Nights — Local Directory"
+title = "Romantic Spots Near Me — Date Night Ideas & Getaways"
 
 [params]
   niche = "romantic date nights"
-  description = "Find the best romantic date nights providers in your city."
+  description = "Discover the best romantic restaurants, hotels and date night ideas near you."
   adsensePublisherId = "ca-pub-XXXXXXXXXXXXXXXX"
   adsenseSlotHeader = "1234567890"
   adsenseSlotContent = "0987654321"
