@@ -1,0 +1,271 @@
+- address: 145 W 53rd St, New York, NY 10019, USA
+  category: restaurants
+  name: La Grande Boucherie
+  phone: (212) 510-7714
+  place_id: ChIJ58OtM8pZwokRbd6DT6gcVys
+  rating: 4.6
+  reviews: 10322
+  slug: la-grande-boucherie
+  website: https://www.boucherieus.com/
+- address: 176 8th Ave, New York, NY 10011, USA
+  category: restaurants
+  name: LOULOU
+  phone: (212) 337-9577
+  place_id: ChIJLT_ZhspZwokR5p4Rn-hVEeQ
+  rating: 4.7
+  reviews: 4366
+  slug: loulou
+  website: https://www.loulounyc.com/
+- address: 2 Columbus Cir, New York, NY 10019, USA
+  category: restaurants
+  name: ROBERT
+  phone: (212) 299-7730
+  place_id: ChIJbxudM_ZYwokRNZbwXK-_GzE
+  rating: 4.5
+  reviews: 1965
+  slug: robert
+  website: https://robertnyc.com/
+- address: 3 Greenwich Ave, New York, NY 10014, USA
+  category: restaurants
+  name: OLIO E PIÙ
+  phone: (212) 243-6546
+  place_id: ChIJ_RUJvZZZwokRNUEv3K4nSik
+  rating: 4.7
+  reviews: 11330
+  slug: olio-e-pi
+  website: https://www.olioepiu.com/
+- address: 129 MacDougal St, New York, NY 10012, USA
+  category: restaurants
+  name: La Lanterna di Vittorio
+  phone: (917) 639-3236
+  place_id: ChIJPxCEeZFZwokRzk5UghlXZWU
+  rating: 4.5
+  reviews: 2421
+  slug: la-lanterna-di-vittorio
+  website: http://lalanterna.nyc/
+- address: 9 W 53rd St, New York, NY 10019, USA
+  category: restaurants
+  name: The Modern
+  phone: (212) 333-1220
+  place_id: ChIJMW-gxPtYwokRzDlnsRgq9rA
+  rating: 4.6
+  reviews: 2746
+  slug: the-modern
+  website: https://www.themodernnyc.com/the-modern/
+- address: 701 7th Ave 9th floor, New York, NY 10036, USA
+  category: restaurants
+  name: The Terrace and Outdoor Gardens at the Times Square EDITION
+  phone: (212) 261-5400
+  place_id: ChIJnw-5VWNZwokRyeb3nhlAwTE
+  rating: 4.4
+  reviews: 980
+  slug: the-terrace-and-outdoor-gardens-at-the-times-square-edition
+  website: https://www.terraceatedition.com/?utm_medium=organic&utm_source=gmb
+- address: 138 Lafayette St, New York, NY 10013, USA
+  category: restaurants
+  name: Le Coucou
+  phone: (212) 271-4252
+  place_id: ChIJyw5j84lZwokRnUI_UknPSNA
+  rating: 4.5
+  reviews: 2108
+  slug: le-coucou
+  website: https://www.lecoucou.com/?utm_source=GoogleBusinessProfile&utm_medium=Website&utm_campaign=MapLabs
+- address: 1 Water St, Brooklyn, NY 11201, USA
+  category: restaurants
+  name: The River Café
+  phone: (718) 522-5200
+  place_id: ChIJ2QZOdTpawokRU_eN_EPJaX8
+  rating: 4.4
+  reviews: 2511
+  slug: the-river-caf
+  website: https://www.rivercafe.com/
+- address: 225 Park Ave S, New York, NY 10003, USA
+  category: restaurants
+  name: Boucherie Union Square
+  phone: (212) 353-0200
+  place_id: ChIJc1Vf7KFZwokR1YL2Rn9oxi8
+  rating: 4.7
+  reviews: 4905
+  slug: boucherie-union-square
+  website: https://www.boucherieus.com/
+- address: 132 W 47th St, New York, NY 10036, USA
+  category: hotels
+  name: Sanctuary Hotel New York
+  phone: (212) 234-7000
+  place_id: ChIJMdMjiVVYwokRqVlf2umuDqI
+  rating: 4.2
+  reviews: 1499
+  slug: sanctuary-hotel-new-york
+  website: http://www.sanctuaryhotelnyc.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing
+- address: 215 Chrystie St, New York, NY 10002, USA
+  category: hotels
+  name: PUBLIC Hotel
+  phone: (212) 735-6000
+  place_id: ChIJYY-OM4RZwokRvA7ECx3HRZw
+  rating: 4.1
+  reviews: 3604
+  slug: public-hotel
+  website: https://www.publichotels.com/?utm_source=local-directories&utm_medium=organic&utm_campaign=travelclick-localconnect
+- address: 1568 Broadway, New York, NY 10036, USA
+  category: hotels
+  name: Tempo by Hilton New York Times Square
+  phone: (212) 262-8100
+  place_id: ChIJKYQAHH9ZwokRcv2MnQjbDno
+  rating: 4
+  reviews: 1461
+  slug: tempo-by-hilton-new-york-times-square
+  website: https://www.hilton.com/en/hotels/nyctepo-tempo-new-york-times-square/?SEO_id=GMB-AMER-PO-NYCTEPO&y_source=1_ODE0MDczNjItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+- address: 80 Wythe Ave, Brooklyn, NY 11249, USA
+  category: hotels
+  name: Wythe Hotel
+  phone: (718) 460-8000
+  place_id: ChIJucbIy0JZwokRvgoW5tnNHM0
+  rating: 4.5
+  reviews: 1641
+  slug: wythe-hotel
+  website: http://www.wythehotel.com/
+- address: 50 Central Park S, New York, NY 10019, USA
+  category: hotels
+  name: The Ritz-Carlton New York, Central Park
+  phone: (212) 308-9100
+  place_id: ChIJ4yNdwPBYwokRqc1lCC4n89w
+  rating: 4.6
+  reviews: 634
+  slug: the-ritz-carlton-new-york-central-park
+  website: https://www.ritzcarlton.com/en/hotels/nyccp-the-ritz-carlton-new-york-central-park/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+- address: 377 Greenwich St, New York, NY 10013, USA
+  category: hotels
+  name: The Greenwich Hotel
+  phone: (212) 941-8900
+  place_id: ChIJTWkuhfVZwokRvaommqZ2oqA
+  rating: 4.6
+  reviews: 419
+  slug: the-greenwich-hotel
+  website: http://www.thegreenwichhotel.com/
+- address: 130 W 44th St, New York, NY 10036, USA
+  category: hotels
+  name: The Chatwal - The Unbound Collection by Hyatt
+  phone: (212) 764-6200
+  place_id: ChIJ613balVYwokR2Sd7fEqauZs
+  rating: 4.5
+  reviews: 453
+  slug: the-chatwal-the-unbound-collection-by-hyatt
+  website: https://www.hyatt.com/unbound-collection/en-US/nycuc-the-chatwal?src=corp_lclb_google_seo_nycuc&utm_source=google&utm_medium=organic&utm_campaign=lmr
+- address: 45 W 38th St, New York, NY 10018, USA
+  category: hotels
+  name: Archer Hotel New York
+  phone: (212) 719-4100
+  place_id: ChIJk6v9Q6pZwokR6FX8G2VNVeg
+  rating: 4.5
+  reviews: 1449
+  slug: archer-hotel-new-york
+  website: https://archerhotel.com/new-york
+- address: 310 W Broadway, New York, NY 10013, USA
+  category: hotels
+  name: Soho Grand Hotel
+  phone: (212) 965-3000
+  place_id: ChIJH8Pll4pZwokR8v9iZ3fgZ-Q
+  rating: 4.3
+  reviews: 2379
+  slug: soho-grand-hotel
+  website: https://www.sohogrand.com/
+- address: 57 E 57th St, New York, NY 10022, USA
+  category: hotels
+  name: Four Seasons Hotel New York
+  phone: (212) 758-5700
+  place_id: ChIJ68J3tfpYwokR2HaRoBcB4xg
+  rating: 4.6
+  reviews: 1195
+  slug: four-seasons-hotel-new-york
+  website: https://www.fourseasons.com/newyork/?utm_source=google&utm_medium=organicsearch&utm_campaign=tor-nyf-hre-mid-seo-na&utm_content=na-na&utm_term=na
+- address: New York, NY 10020, USA
+  category: activities
+  name: The Channel Gardens
+  phone: ''
+  place_id: ChIJ5yWju_5YwokR6dgLgzNaIBw
+  rating: 4.7
+  reviews: 725
+  slug: the-channel-gardens
+  website: https://www.rockefellercenter.com/attractions/the-channel-gardens/
+- address: 30 Rockefeller Plaza, New York, NY 10112, USA
+  category: activities
+  name: Top of The Rock
+  phone: (212) 698-2000
+  place_id: ChIJe7vKMf9YwokRIMYfDz7iF9o
+  rating: 4.7
+  reviews: 82915
+  slug: top-of-the-rock
+  website: https://www.rockefellercenter.com/attractions/top-of-the-rock-observation-deck/
+- address: 295 Madison Ave, New York, NY 10017, USA
+  category: activities
+  name: The Escape Game NYC (Midtown Manhattan)
+  phone: (917) 970-1360
+  place_id: ChIJwwwGE_tZwokRmpfoXySK-x0
+  rating: 5
+  reviews: 9459
+  slug: the-escape-game-nyc-midtown-manhattan
+  website: https://theescapegame.com/newyorkcity/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_id=newyorkcity
+- address: 117 West St, New York, NY 10007, USA
+  category: activities
+  name: One World Observatory
+  phone: (212) 602-4000
+  place_id: ChIJTWE_0BtawokRVJNGH5RS448
+  rating: 4.7
+  reviews: 25698
+  slug: one-world-observatory
+  website: https://www.oneworldobservatory.com/?utm_source=googlebusiness&utm_medium=organic&utm_campaign=places
+- address: 77 8th Ave, New York, NY 10014, USA
+  category: activities
+  name: Museum of Illusions - New York
+  phone: ''
+  place_id: ChIJ6XBmhaZZwokRlmXoc8vxrsE
+  rating: 4.4
+  reviews: 13608
+  slug: museum-of-illusions-new-york
+  website: http://newyork.museumofillusions.us/?utm_source=Google+GMB&utm_medium=website
+- address: 2900 Southern Blvd, Bronx, NY 10458, USA
+  category: activities
+  name: New York Botanical Garden
+  phone: (718) 817-8700
+  place_id: ChIJyRUHuHzzwokRPxVBNKhcP9c
+  rating: 4.7
+  reviews: 12907
+  slug: new-york-botanical-garden
+  website: https://www.nybg.org/
+- address: Little Island, Pier 55 at Hudson River Park, Hudson River Greenway, New
+    York, NY 10014, USA
+  category: activities
+  name: Little Island
+  phone: ''
+  place_id: ChIJL-CJmTFZwokRsPcqje_bn7w
+  rating: 4.7
+  reviews: 17488
+  slug: little-island
+  website: https://littleisland.org/
+- address: 255 Water St, Brooklyn, NY 11201, USA
+  category: activities
+  name: Beat The Bomb Brooklyn
+  phone: (518) 207-9440
+  place_id: ChIJeQK8JjNawokRHe4x0TextbU
+  rating: 5
+  reviews: 15902
+  slug: beat-the-bomb-brooklyn
+  website: https://www.beatthebomb.com/locations/brooklyn
+- address: 57 Hudson River Greenway, New York, NY 10011, USA
+  category: activities
+  name: Pier 57 Rooftop Park
+  phone: ''
+  place_id: ChIJY7gqh1RZwokRf1crJ0UzWXU
+  rating: 4.8
+  reviews: 702
+  slug: pier-57-rooftop-park
+  website: https://hudsonriverpark.org/locations/pier-57/
+- address: 233 5th Ave, New York, NY 10016, USA
+  category: activities
+  name: Museum of Sex
+  phone: (212) 689-6337
+  place_id: ChIJR026QqZZwokRgLuHSIZNIKM
+  rating: 4.4
+  reviews: 6005
+  slug: museum-of-sex
+  website: https://www.museumofsex.com/?y_source=1_MTA4NDAxMzM2Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D

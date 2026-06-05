@@ -1,0 +1,270 @@
+- address: 211 N 1st St, Minneapolis, MN 55401, USA
+  category: restaurants
+  name: Spoon and Stable
+  phone: (612) 224-9850
+  place_id: ChIJpQmgMoQys1IRID1e5YB8eMo
+  rating: 4.7
+  reviews: 3060
+  slug: spoon-and-stable
+  website: http://www.spoonandstable.com/
+- address: 224 N 1st St, Minneapolis, MN 55401, USA
+  category: restaurants
+  name: Maison Margaux
+  phone: (612) 900-1800
+  place_id: ChIJyzpfRMozs1IR6bEGG8EMWPc
+  rating: 4.4
+  reviews: 673
+  slug: maison-margaux
+  website: http://www.maisonmargauxmpls.com/
+- address: 212 N 2nd St Suite 100, Minneapolis, MN 55401, USA
+  category: restaurants
+  name: Demi
+  phone: (612) 404-1123
+  place_id: ChIJIRuC3GEzs1IR95ImVc1yzlE
+  rating: 4.9
+  reviews: 480
+  slug: demi
+  website: https://demimpls.com/
+- address: 4312 Upton Ave S, Minneapolis, MN 55410, USA
+  category: restaurants
+  name: Martina
+  phone: (612) 922-9913
+  place_id: ChIJlzITYRcn9ocRcMEfy0kSJWo
+  rating: 4.7
+  reviews: 2037
+  slug: martina
+  website: http://www.martinarestaurant.com/
+- address: 4257 Nicollet Ave, Minneapolis, MN 55409, USA
+  category: restaurants
+  name: Bûcheron
+  phone: (612) 255-5632
+  place_id: ChIJKUStfyEn9ocRSvEKf8e3aGk
+  rating: 4.8
+  reviews: 341
+  slug: b-cheron
+  website: https://www.bucheronrestaurant.com/
+- address: 528 University Ave SE, Minneapolis, MN 55414, USA
+  category: restaurants
+  name: Alma
+  phone: (612) 379-4909
+  place_id: ChIJM75Ao3Ets1IRftCVbIP51eY
+  rating: 4.6
+  reviews: 2099
+  slug: alma
+  website: https://www.almampls.com/
+- address: 800 N Washington Ave, Minneapolis, MN 55401, USA
+  category: restaurants
+  name: Bar La Grassa
+  phone: (612) 333-3837
+  place_id: ChIJBcDbP4oys1IRg97QGrkjtH8
+  rating: 4.7
+  reviews: 2628
+  slug: bar-la-grassa
+  website: https://www.barlagrassa.com/
+- address: 1121 Hennepin Ave, Minneapolis, MN 55403, USA
+  category: restaurants
+  name: The Butcher's Tale
+  phone: (612) 236-4075
+  place_id: ChIJweDHAY0zs1IRUMtMvFN9GFE
+  rating: 4.7
+  reviews: 928
+  slug: the-butcher-s-tale
+  website: https://butcherstale.com/
+- address: 4300 Bryant Ave S, Minneapolis, MN 55409, USA
+  category: restaurants
+  name: Tenant Restaurant
+  phone: (612) 827-8111
+  place_id: ChIJGahwf6Un9ocRlOepHD_kLUY
+  rating: 4.8
+  reviews: 602
+  slug: tenant-restaurant
+  website: http://tenantmpls.com/
+- address: 4300 E Lake St, Minneapolis, MN 55406, USA
+  category: restaurants
+  name: The Bungalow Club
+  phone: (612) 866-3334
+  place_id: ChIJVVUFENEp9ocRvxDuSgM3Sxc
+  rating: 4.7
+  reviews: 501
+  slug: the-bungalow-club
+  website: http://thebungalowclubmpls.com/
+- address: 300 N Washington Ave, Minneapolis, MN 55401, USA
+  category: hotels
+  name: Hewing Hotel
+  phone: (651) 468-0400
+  place_id: ChIJZ46UXI8ys1IRX9CU03ozBKA
+  rating: 4.4
+  reviews: 1765
+  slug: hewing-hotel
+  website: https://hewinghotel.com/?utm_source=google&utm_medium=organic&utm_campaign=googlelisting&utm_id=gmb
+- address: 95 Merriam St, Minneapolis, MN 55401, USA
+  category: hotels
+  name: Nicollet Island Inn
+  phone: (612) 331-1800
+  place_id: ChIJpVa34H0ts1IRp6RwGPDrlhM
+  rating: 4.6
+  reviews: 1097
+  slug: nicollet-island-inn
+  website: https://www.nicolletislandinn.com/
+- address: 325 Dayton Ave, St Paul, MN 55102, USA
+  category: hotels
+  name: The New Victorian Mansion Bed & Breakfast
+  phone: (651) 321-8151
+  place_id: ChIJrefluLwq9ocRAK8zf_Et1QA
+  rating: 4.7
+  reviews: 129
+  slug: the-new-victorian-mansion-bed-breakfast
+  website: http://www.newvictorianbb.com/
+- address: 201 S 11th St, Minneapolis, MN 55403, USA
+  category: hotels
+  name: Hotel Ivy, a Luxury Collection Hotel, Minneapolis
+  phone: (612) 746-4600
+  place_id: ChIJOzwdfL0ys1IRe46ub9Rp4lM
+  rating: 4.5
+  reviews: 684
+  slug: hotel-ivy-a-luxury-collection-hotel-minneapolis
+  website: https://www.marriott.com/en-us/hotels/msplc-hotel-ivy-a-luxury-collection-hotel-minneapolis/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+- address: 901 Hennepin Ave, Minneapolis, MN 55403, USA
+  category: hotels
+  name: The Chambers Hotel
+  phone: (612) 767-6900
+  place_id: ChIJgdqRhh4zs1IR36CAjMWLUOs
+  rating: 4.1
+  reviews: 624
+  slug: the-chambers-hotel
+  website: https://www.chambershoteldowntown.com/
+- address: 350 Market St, St Paul, MN 55102, USA
+  category: hotels
+  name: The Saint Paul Hotel
+  phone: (651) 292-9292
+  place_id: ChIJW-s_kEzV94cRb0Qib5rYthU
+  rating: 4.6
+  reviews: 2417
+  slug: the-saint-paul-hotel
+  website: https://www.saintpaulhotel.com/
+- address: 821 S Marquette Ave, Minneapolis, MN 55402, USA
+  category: hotels
+  name: W Minneapolis - The Foshay
+  phone: (612) 215-3700
+  place_id: ChIJgSSADZcys1IRo7Y6XqOOAyE
+  rating: 4.3
+  reviews: 2586
+  slug: w-minneapolis-the-foshay
+  website: https://www.marriott.com/en-us/hotels/mspwh-w-minneapolis-the-foshay/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+- address: 601 N 1st Ave, Minneapolis, MN 55403, USA
+  category: hotels
+  name: The Lofton Hotel Minneapolis, Tapestry Collection by Hilton
+  phone: (612) 677-1100
+  place_id: ChIJx-4_mZEys1IREGzM4Zem2v8
+  rating: 4.5
+  reviews: 1755
+  slug: the-lofton-hotel-minneapolis-tapestry-collection-by-hilton
+  website: https://www.hilton.com/en/hotels/mspupup-the-lofton-hotel/?SEO_id=GMB-AMER-UP-MSPUPUP&y_source=1_MTAzNDU0NjQ4OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+- address: 300 Clifton Ave, Minneapolis, MN 55403, USA
+  category: hotels
+  name: 300 Clifton Bed and Breakfast
+  phone: (612) 281-1550
+  place_id: ChIJPXMWxcYys1IRlXAQ2FAAiGA
+  rating: 4.7
+  reviews: 225
+  slug: 300-clifton-bed-and-breakfast
+  website: http://300clifton.com/
+- address: 100 Harriet Island Rd, St Paul, MN 55107, USA
+  category: hotels
+  name: The Covington Inn
+  phone: (612) 440-7838
+  place_id: ChIJ5b0BY0rV94cRBQhRWpwy_7Q
+  rating: 4.5
+  reviews: 115
+  slug: the-covington-inn
+  website: http://www.covingtoninn.com/
+- address: 5300 S Robert Trail, Inver Grove Heights, MN 55077, USA
+  category: activities
+  name: Nowhere Entertainment
+  phone: (651) 340-8651
+  place_id: ChIJ-YDmKBvT94cR-Lgn8_Yd5Kg
+  rating: 4.8
+  reviews: 716
+  slug: nowhere-entertainment
+  website: https://nowhereentertainmentcenter.com/
+- address: 60 E Broadway Level 2, Bloomington, MN 55425, USA
+  category: activities
+  name: Museum of Illusions - Mall of America
+  phone: (651) 348-8119
+  place_id: ChIJzaW7gtsv9ocRSgpN2lmwSn4
+  rating: 4.8
+  reviews: 3038
+  slug: museum-of-illusions-mall-of-america
+  website: https://moimallofamerica.com/?utm_source=Google+GMB&utm_medium=website
+- address: 1661 West End Blvd, St Louis Park, MN 55416, USA
+  category: activities
+  name: Game Show Battle Rooms - Minneapolis (St. Louis Park)
+  phone: (612) 440-6090
+  place_id: ChIJH0YSlAc1s1IRn8ngT3JNfLM
+  rating: 5
+  reviews: 11254
+  slug: game-show-battle-rooms-minneapolis-st-louis-park
+  website: https://gameshowbattlerooms.com/minneapolis/
+- address: 102 Portland Ave S, Minneapolis, MN 55401, USA
+  category: activities
+  name: Mill Ruins Park
+  phone: (612) 313-7793
+  place_id: ChIJxVSAem8ts1IR_-4YTVVSdSw
+  rating: 4.7
+  reviews: 3055
+  slug: mill-ruins-park
+  website: https://www.minneapolisparks.org/parks__destinations/parks__lakes/mill_ruins_park/
+- address: 1225 Estabrook Dr, St Paul, MN 55103, USA
+  category: activities
+  name: Como Park Zoo & Conservatory
+  phone: (651) 487-8201
+  place_id: ChIJ5c3H2xArs1IRWl8vqH3Jq0U
+  rating: 4.7
+  reviews: 19169
+  slug: como-park-zoo-conservatory
+  website: http://www.comozooconservatory.org/
+- address: 725 Vineland Pl, Minneapolis, MN 55403, USA
+  category: activities
+  name: Minneapolis Sculpture Garden
+  phone: (612) 375-7600
+  place_id: ChIJCVqalcIys1IRb40obJwNy1M
+  rating: 4.7
+  reviews: 7616
+  slug: minneapolis-sculpture-garden
+  website: https://www.walkerart.org/garden/
+- address: 353 North Garden, Bloomington, MN 55425, USA
+  category: activities
+  name: Amazing Mirror Maze
+  phone: (952) 854-5345
+  place_id: ChIJOU-8e2wv9ocRMlbsuJ2yuVg
+  rating: 4.2
+  reviews: 865
+  slug: amazing-mirror-maze
+  website: https://www.mallofamerica.com/directory/amzing-mirror-maze
+- address: 135 N Washington Ave, Minneapolis, MN 55401, USA
+  category: activities
+  name: Upstairs Circus MPLS
+  phone: (612) 216-2229
+  place_id: ChIJq1pJeoUys1IRYiMZ7a1QVtc
+  rating: 4.5
+  reviews: 469
+  slug: upstairs-circus-mpls
+  website: https://www.upstairscircus.com/mpls
+- address: 4811 Nicollet Ave, Minneapolis, MN 55419, USA
+  category: activities
+  name: The Salt Cave Minnesota
+  phone: (612) 567-2587
+  place_id: ChIJNZ42UjUm9ocRuxdrNogxdoI
+  rating: 4.6
+  reviews: 187
+  slug: the-salt-cave-minnesota
+  website: https://www.saltcaveminnesota.com/home
+- address: '755 Prior Ave N Suite #004, St Paul, MN 55104, USA'
+  category: activities
+  name: Can Can Wonderland - St. Paul
+  phone: (651) 432-0228
+  place_id: ChIJT0FI6agss1IRHAf0ZX4Rw_0
+  rating: 4.4
+  reviews: 5633
+  slug: can-can-wonderland-st-paul
+  website: https://www.cancanwonderland.com/

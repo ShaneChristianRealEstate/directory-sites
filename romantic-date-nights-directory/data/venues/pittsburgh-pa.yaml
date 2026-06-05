@@ -1,0 +1,270 @@
+- address: 1230 Grandview Ave, Pittsburgh, PA 15211, USA
+  category: restaurants
+  name: Altius
+  phone: (412) 528-6954
+  place_id: ChIJWdAveK_2NIgRLTc86K9aJpk
+  rating: 4.6
+  reviews: 2017
+  slug: altius
+  website: http://altiuspgh.com/
+- address: 514 E Ohio St, Pittsburgh, PA 15212, USA
+  category: restaurants
+  name: Fig & Ash
+  phone: (412) 321-2222
+  place_id: ChIJU-E_KhvzNIgRfi53Eoj79i8
+  rating: 4.7
+  reviews: 915
+  slug: fig-ash
+  website: http://www.figandashpgh.com/
+- address: 524 William Penn Pl, Pittsburgh, PA 15219, USA
+  category: restaurants
+  name: Ritual House
+  phone: (412) 904-2002
+  place_id: ChIJuanz3VnxNIgRevJ0mtJ3D9c
+  rating: 4.5
+  reviews: 857
+  slug: ritual-house
+  website: https://www.ritualhousepgh.com/
+- address: 1411 Grandview Ave, Pittsburgh, PA 15211, USA
+  category: restaurants
+  name: Monterey Bay Fish Grotto
+  phone: (412) 481-4414
+  place_id: ChIJPz5dmKX2NIgRgcESndEXxLQ
+  rating: 4.7
+  reviews: 2886
+  slug: monterey-bay-fish-grotto
+  website: http://www.montereybayfishgrotto.com/
+- address: 804 E Warrington Ave, Pittsburgh, PA 15210, USA
+  category: restaurants
+  name: Alla Famiglia
+  phone: (412) 488-1440
+  place_id: ChIJY4oV6DjxNIgRmaNZyV7lqY8
+  rating: 4.7
+  reviews: 1481
+  slug: alla-famiglia
+  website: http://www.allafamiglia.com/
+- address: 238 Spahr St, Pittsburgh, PA 15232, USA
+  category: restaurants
+  name: Lilith
+  phone: (412) 744-9290
+  place_id: ChIJJZvnESrzNIgRpLiQd90HlPU
+  rating: 4.8
+  reviews: 297
+  slug: lilith
+  website: https://www.lilithpgh.com/
+- address: 301 Fifth Ave, Pittsburgh, PA 15222, USA
+  category: restaurants
+  name: The Capital Grille
+  phone: (412) 338-9100
+  place_id: ChIJGfCWEFfxNIgRKdud4avVJZk
+  rating: 4.6
+  reviews: 1897
+  slug: the-capital-grille
+  website: https://www.thecapitalgrille.com/locations/pa/pittsburgh/pittsburgh/8031?cmpid=br:tcg_ag:ie_ch:loc_ca:TCGGMB_sn:gmb_gt:pittsburgh-pa-8031_pl:locurl_rd:1027
+- address: 3519 Butler St, Pittsburgh, PA 15201, USA
+  category: restaurants
+  name: Morcilla
+  phone: (412) 652-9924
+  place_id: ChIJ4SrQ-rTzNIgRBCWal8EzERk
+  rating: 4.7
+  reviews: 1004
+  slug: morcilla
+  website: http://morcillapittsburgh.com/
+- address: 1516 Coraopolis Heights Rd, Coraopolis, PA 15108, USA
+  category: restaurants
+  name: Hyeholde Restaurant
+  phone: (412) 264-3116
+  place_id: ChIJIc4ZuMxdNIgRF9kmpKAY8EA
+  rating: 4.7
+  reviews: 786
+  slug: hyeholde-restaurant
+  website: http://www.hyeholde.com/
+- address: 1150 Smallman St, Pittsburgh, PA 15222, USA
+  category: restaurants
+  name: Eleven
+  phone: (412) 201-5656
+  place_id: ChIJWc78NOLzNIgRcQKCaa4pSCU
+  rating: 4.6
+  reviews: 1829
+  slug: eleven
+  website: http://www.elevenck.com/
+- address: 620 William Penn Pl, Pittsburgh, PA 15219, USA
+  category: hotels
+  name: Kimpton Hotel Monaco Pittsburgh
+  phone: (412) 471-1170
+  place_id: ChIJlbtRylnxNIgRitsCzVjBaAg
+  rating: 4.6
+  reviews: 2287
+  slug: kimpton-hotel-monaco-pittsburgh
+  website: https://www.monaco-pittsburgh.com/?&cm_mmc=WEB-_-KI-_-AMER-_-EN-_-EV-_-Google%20Business%20Profile-_-DD-_-monaco%20pittsburgh
+- address: 614 Pressley St, Pittsburgh, PA 15212, USA
+  category: hotels
+  name: The Priory Hotel
+  phone: (412) 231-3338
+  place_id: ChIJVZLm0PrzNIgRJ-38DkRlaZs
+  rating: 4.5
+  reviews: 800
+  slug: the-priory-hotel
+  website: http://www.thepriory.com/
+- address: 604 W North Ave, Pittsburgh, PA 15212, USA
+  category: hotels
+  name: Boggs Mansion
+  phone: (412) 231-6544
+  place_id: ChIJ-6QxFQb0NIgR2u9yRyhzjZs
+  rating: 4.8
+  reviews: 200
+  slug: boggs-mansion
+  website: https://www.boggsmansion.com/
+- address: 5105 Fifth Ave suite 10, Pittsburgh, PA 15232, USA
+  category: hotels
+  name: The Mansions On Fifth Luxury Hotel
+  phone: (412) 381-5105
+  place_id: ChIJ_Z0nyRnyNIgR3CYroqGJI9U
+  rating: 4.4
+  reviews: 497
+  slug: the-mansions-on-fifth-luxury-hotel
+  website: https://mansionsonfifth.com/
+- address: 530 William Penn Pl, Pittsburgh, PA 15219, USA
+  category: hotels
+  name: Omni William Penn Hotel
+  phone: (412) 281-7100
+  place_id: ChIJZZduw1nxNIgRY5TuolZ-SBA
+  rating: 4.5
+  reviews: 6118
+  slug: omni-william-penn-hotel
+  website: https://www.omnihotels.com/hotels/pittsburgh-william-penn?utm_source=gmblisting&utm_medium=organic
+- address: 510 Market St, Pittsburgh, PA 15222, USA
+  category: hotels
+  name: Fairmont Pittsburgh
+  phone: (412) 773-8800
+  place_id: ChIJ8YrAjVbxNIgRzyKm6e_bL8o
+  rating: 4.3
+  reviews: 1417
+  slug: fairmont-pittsburgh
+  website: https://www.fairmont.com/pittsburgh/?goto=fiche_hotel&code_hotel=A571&merchantid=seo-maps-US-A571&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps
+- address: 745 Grant St, Pittsburgh, PA 15219, USA
+  category: hotels
+  name: Drury Plaza Hotel Pittsburgh Downtown
+  phone: (412) 281-2900
+  place_id: ChIJjZw5iljxNIgRGJ4ajXsxhIM
+  rating: 4.7
+  reviews: 2241
+  slug: drury-plaza-hotel-pittsburgh-downtown
+  website: https://www.druryhotels.com/locations/Pittsburgh-PA/Drury-Plaza-Hotel-Pittsburgh-Downtown?utm_campaign=gmb&utm_medium=organic&utm_source=local2
+- address: 107 6th St, Pittsburgh, PA 15222, USA
+  category: hotels
+  name: Renaissance Pittsburgh Hotel
+  phone: (412) 562-1200
+  place_id: ChIJR4nVEVbxNIgRW20bLtSJWoM
+  rating: 4.4
+  reviews: 2329
+  slug: renaissance-pittsburgh-hotel
+  website: https://www.marriott.com/en-us/hotels/pitbr-renaissance-pittsburgh-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+- address: 703 S Negley Ave, Pittsburgh, PA 15232, USA
+  category: hotels
+  name: The Inn on Negley
+  phone: (412) 661-0631
+  place_id: ChIJa1XW9RHyNIgRk7zezx7O_2I
+  rating: 4.8
+  reviews: 270
+  slug: the-inn-on-negley
+  website: http://www.innonnegley.com/
+- address: 453 Boulevard of the Allies, Pittsburgh, PA 15219, USA
+  category: hotels
+  name: Joinery Hotel Pittsburgh, Curio Collection by Hilton
+  phone: (412) 339-1870
+  place_id: ChIJL1jujVDxNIgRfg9-ewGV0H8
+  rating: 3.9
+  reviews: 1471
+  slug: joinery-hotel-pittsburgh-curio-collection-by-hilton
+  website: https://www.hilton.com/en/hotels/pitktqq-joinery-hotel-pittsburgh/?SEO_id=GMB-AMER-QQ-PITKTQQ&y_source=1_OTU3NDUxNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+- address: 1 Schenley Dr, Pittsburgh, PA 15213, USA
+  category: activities
+  name: Phipps Conservatory and Botanical Gardens
+  phone: (412) 622-6914
+  place_id: ChIJBZlC-InxNIgRDUaGB-UvoSg
+  rating: 4.8
+  reviews: 10364
+  slug: phipps-conservatory-and-botanical-gardens
+  website: https://www.phipps.conservatory.org/
+- address: 267 North Shore Drive, Pittsburgh, PA 15212, USA
+  category: activities
+  name: Museum of Illusions Pittsburgh
+  phone: (412) 224-2272
+  place_id: ChIJkUgwC_31NIgRZ1le8bPwAig
+  rating: 4.6
+  reviews: 2283
+  slug: museum-of-illusions-pittsburgh
+  website: https://moipittsburgh.com/?utm_source=Google+GMB&utm_source=Google+GMB&utm_medium=website
+- address: 4400 Forbes Ave, Pittsburgh, PA 15213, USA
+  category: activities
+  name: Carnegie Museum of Natural History
+  phone: (412) 622-3131
+  place_id: ChIJwRKe38LzNIgRqMb7UcsjkSI
+  rating: 4.8
+  reviews: 4547
+  slug: carnegie-museum-of-natural-history
+  website: https://carnegiemnh.org/
+- address: 799 Pinkerton Run Rd, Oakdale, PA 15071, USA
+  category: activities
+  name: Pittsburgh Botanic Garden
+  phone: (412) 444-4464
+  place_id: ChIJuXiabp5ZNIgR6lS1H-L-v40
+  rating: 4.6
+  reviews: 1715
+  slug: pittsburgh-botanic-garden
+  website: https://pittsburghbotanicgarden.org/
+- address: 1501 Arch St, Pittsburgh, PA 15212, USA
+  category: activities
+  name: Randyland
+  phone: (412) 342-8152
+  place_id: ChIJAS-KzAn0NIgRPWwtdsC6vBw
+  rating: 4.7
+  reviews: 3688
+  slug: randyland
+  website: https://randyland.club/
+- address: 700 Arch St, Pittsburgh, PA 15212, USA
+  category: activities
+  name: National Aviary
+  phone: (412) 323-7235
+  place_id: ChIJW77IvAf0NIgRC6dk0e502kY
+  rating: 4.7
+  reviews: 7626
+  slug: national-aviary
+  website: https://www.aviary.org/
+- address: 7724 Juniata St, Pittsburgh, PA 15218, USA
+  category: activities
+  name: Trundle Manor
+  phone: (412) 916-5544
+  place_id: ChIJ2ezzo2TuNIgRgfzfxw1FjZE
+  rating: 4.8
+  reviews: 299
+  slug: trundle-manor
+  website: http://trundlemanor.com/
+- address: 722 Allegheny River Blvd 2nd Floor, Verona, PA 15147, USA
+  category: activities
+  name: Puzzle Room Pittsburgh
+  phone: (412) 545-3009
+  place_id: ChIJYduxnLHsNIgRwqV4WjYDXR0
+  rating: 4.9
+  reviews: 624
+  slug: puzzle-room-pittsburgh
+  website: https://puzzleroompittsburgh.com/
+- address: 601 Commonwealth Pl, Pittsburgh, PA 15222, USA
+  category: activities
+  name: Point State Park
+  phone: (412) 565-2850
+  place_id: ChIJjbGBQav2NIgRoARMOwbkqD4
+  rating: 4.7
+  reviews: 9555
+  slug: point-state-park
+  website: https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/point-state-park.html
+- address: Bailey Ave, Pittsburgh, PA 15211, USA
+  category: activities
+  name: Emerald View Park
+  phone: (412) 682-7275
+  place_id: ChIJW805AkzxNIgRwN8uxlTzDfU
+  rating: 4.7
+  reviews: 3545
+  slug: emerald-view-park
+  website: https://pittsburghparks.org/explore-your-parks/regional-parks/emerald-view-park/

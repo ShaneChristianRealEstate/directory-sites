@@ -1,0 +1,270 @@
+- address: 8164 W 3rd St, Los Angeles, CA 90048, USA
+  category: restaurants
+  name: The Little Door
+  phone: (323) 951-1210
+  place_id: ChIJn27gbza5woARGlcPgv8gNn4
+  rating: 4.5
+  reviews: 1336
+  slug: the-little-door
+  website: https://thelittledoor.com/
+- address: 633 W 5th St 71st floor, Los Angeles, CA 90071, USA
+  category: restaurants
+  name: 71Above
+  phone: (213) 712-2683
+  place_id: ChIJg4Tqa7PHwoARrWA-2kwYfDE
+  rating: 4.5
+  reviews: 2785
+  slug: 71above
+  website: https://www.71above.com/
+- address: 555-3 Mateo St, Los Angeles, CA 90013, USA
+  category: restaurants
+  name: Girl & the Goat Los Angeles
+  phone: (213) 799-4628
+  place_id: ChIJXVodUFfHwoARe63Z7LSuUnY
+  rating: 4.8
+  reviews: 3733
+  slug: girl-the-goat-los-angeles
+  website: http://girlandthegoat.com/
+- address: 448 S Hill St, Los Angeles, CA 90013, USA
+  category: restaurants
+  name: Perch
+  phone: (213) 802-1770
+  place_id: ChIJqbKnF0vGwoARREUrVhYGqTU
+  rating: 4.4
+  reviews: 7552
+  slug: perch
+  website: http://perchla.com/
+- address: 8400 Santa Monica Blvd, West Hollywood, CA 90069, USA
+  category: restaurants
+  name: La Boheme
+  phone: (323) 848-2360
+  place_id: ChIJG1JMPbm-woARxO_a-oFFDck
+  rating: 4.5
+  reviews: 1811
+  slug: la-boheme
+  website: http://labohemeweho.com/
+- address: Proper Hotel (Rooftop, 1100 S Broadway, Los Angeles, CA 90015, USA
+  category: restaurants
+  name: Cara Cara
+  phone: (213) 806-1027
+  place_id: ChIJ4V4DBfXHwoARx3FMc9CBMRg
+  rating: 4.4
+  reviews: 630
+  slug: cara-cara
+  website: https://www.properhotel.com/downtown-la/restaurants-bars/cara-cara/
+- address: 1999 N Sycamore Ave, Los Angeles, CA 90068, USA
+  category: restaurants
+  name: Yamashiro Hollywood
+  phone: (323) 466-5125
+  place_id: ChIJ4cPZaB-_woARtEolLtFFYus
+  rating: 4.3
+  reviews: 5764
+  slug: yamashiro-hollywood
+  website: https://yamashirohollywood.com/
+- address: 114 E 2nd St, Los Angeles, CA 90012, USA
+  category: restaurants
+  name: Redbird
+  phone: (213) 788-1191
+  place_id: ChIJv4yVGknGwoARC_5zwy3zU5M
+  rating: 4.6
+  reviews: 1816
+  slug: redbird
+  website: http://www.redbird.la/
+- address: 11720 Ventura Blvd, Studio City, CA 91604, USA
+  category: restaurants
+  name: Firefly
+  phone: (818) 762-1833
+  place_id: ChIJczmOIgm-woARRRSIOSN8rDk
+  rating: 4.5
+  reviews: 1725
+  slug: firefly
+  website: https://www.fireflystudiocity.com/
+- address: 1124 San Julian St, Los Angeles, CA 90015, USA
+  category: restaurants
+  name: Rossoblu
+  phone: (213) 749-1099
+  place_id: ChIJc6BaWc3HwoARjoG2U9gMA3Q
+  rating: 4.5
+  reviews: 982
+  slug: rossoblu
+  website: https://www.rossoblula.com/
+- address: 7000 Hollywood Blvd, Los Angeles, CA 90028, USA
+  category: hotels
+  name: The Hollywood Roosevelt
+  phone: (323) 785-7000
+  place_id: ChIJazD_QyG_woARwKuHsRqY0nU
+  rating: 4.4
+  reviews: 5826
+  slug: the-hollywood-roosevelt
+  website: https://www.thehollywoodroosevelt.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing
+- address: 6417 Selma Ave, Hollywood, CA 90028, USA
+  category: hotels
+  name: Dream Hollywood, by Hyatt
+  phone: (323) 844-6417
+  place_id: ChIJKSpatTu_woARhr9tdk5zMAs
+  rating: 4.1
+  reviews: 1362
+  slug: dream-hollywood-by-hyatt
+  website: https://www.hyatt.com/dream-hotels/en-US/laxdz-dream-hollywood?src=corp_lclb_google_seo_laxdz&utm_source=google&utm_medium=organic&utm_campaign=lmr
+- address: 8221 Sunset Blvd, Los Angeles, CA 90046, USA
+  category: hotels
+  name: Chateau Marmont
+  phone: (323) 656-1010
+  place_id: ChIJKROQJcC-woARXQdWnTspoVk
+  rating: 4.4
+  reviews: 1399
+  slug: chateau-marmont
+  website: https://www.chateaumarmont.com/
+- address: 10300 Wilshire Blvd STE 200, Los Angeles, CA 90024, USA
+  category: hotels
+  name: Beverly Hills Plaza Hotel & Spa
+  phone: (310) 275-5575
+  place_id: ChIJ5ZA1I3e8woARBzIurF6K3vU
+  rating: 4.3
+  reviews: 600
+  slug: beverly-hills-plaza-hotel-spa
+  website: https://www.beverlyhillsplazahotel.com/
+- address: 465 La Cienega Blvd, Los Angeles, CA 90048, USA
+  category: hotels
+  name: SLS Hotel, a Luxury Collection Hotel, Beverly Hills
+  phone: (310) 247-0400
+  place_id: ChIJZ1tYo065woARyyXIPJsJCJg
+  rating: 4.3
+  reviews: 2214
+  slug: sls-hotel-a-luxury-collection-hotel-beverly-hills
+  website: https://www.marriott.com/en-us/hotels/laxls-sls-hotel-a-luxury-collection-hotel-beverly-hills/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+- address: 900 Wilshire Blvd, Los Angeles, CA 90017, USA
+  category: hotels
+  name: InterContinental Los Angeles Downtown by IHG
+  phone: (213) 688-7777
+  place_id: ChIJ8TvIE7HHwoAR7W9Tr2zza6Q
+  rating: 4.5
+  reviews: 7316
+  slug: intercontinental-los-angeles-downtown-by-ihg
+  website: https://www.ihg.com/intercontinental/hotels/us/en/los-angeles/laxhc/hoteldetail?cm_mmc=GoogleMaps-_-IC-_-US-_-LAXHC
+- address: 4222 Vineland Ave, North Hollywood, CA 91602, USA
+  category: hotels
+  name: The Garland
+  phone: (818) 980-8000
+  place_id: ChIJm_HBFxi-woARkZXB2pdshwg
+  rating: 4.5
+  reviews: 2897
+  slug: the-garland
+  website: http://www.thegarland.com/
+- address: 1910 Ocean Way, Santa Monica, CA 90405, USA
+  category: hotels
+  name: Hotel Casa del Mar
+  phone: (310) 581-5533
+  place_id: ChIJ8XoN8dWkwoAR7B6j3YDYcKU
+  rating: 4.6
+  reviews: 1670
+  slug: hotel-casa-del-mar
+  website: https://www.hotelcasadelmar.com/
+- address: 1200 Alta Loma Rd, West Hollywood, CA 90069, USA
+  category: hotels
+  name: Sunset Marquis
+  phone: (310) 657-1333
+  place_id: ChIJR5onXby-woARNYxlILROsfk
+  rating: 4.7
+  reviews: 960
+  slug: sunset-marquis
+  website: https://sunsetmarquis.com/
+- address: 435 Culver Blvd, Playa Del Rey, CA 90293, USA
+  category: hotels
+  name: Inn at Playa del Rey
+  phone: (310) 574-1920
+  place_id: ChIJTUV8-GOwwoARl0-TU4HoMvQ
+  rating: 4.7
+  reviews: 280
+  slug: inn-at-playa-del-rey
+  website: http://www.innatplayadelrey.com/
+- address: 2800 E Observatory Rd, Los Angeles, CA 90027, USA
+  category: activities
+  name: Griffith Observatory
+  phone: (213) 473-0800
+  place_id: ChIJywjU6WG_woAR3NrWwrEH_3M
+  rating: 4.7
+  reviews: 17910
+  slug: griffith-observatory
+  website: https://griffithobservatory.org/
+- address: 7126 Melrose Ave, Los Angeles, CA 90046, USA
+  category: activities
+  name: The Escape Revolution - Ultimate Escape Room Experience in Los Angeles
+  phone: (323) 363-3326
+  place_id: ChIJmeyMS9W4woARV9Wvzm_5sHQ
+  rating: 4.9
+  reviews: 622
+  slug: the-escape-revolution-ultimate-escape-room-experience-in-los-angeles
+  website: https://theescaperevolution.com/
+- address: 6751 Hollywood Blvd, Los Angeles, CA 90028, USA
+  category: activities
+  name: World of Illusions Los Angeles
+  phone: (800) 593-2902
+  place_id: ChIJD0CDniO_woARL4Y93Bw1yNw
+  rating: 4.2
+  reviews: 3075
+  slug: world-of-illusions-los-angeles
+  website: https://laillusions.com/
+- address: 1200 Getty Center Dr, Los Angeles, CA 90049, USA
+  category: activities
+  name: The Getty
+  phone: (310) 440-7300
+  place_id: ChIJbzYnQte8woARJaqqFVpKeNo
+  rating: 4.8
+  reviews: 36602
+  slug: the-getty
+  website: https://www.getty.edu/
+- address: 634 Mateo St, Los Angeles, CA 90021, USA
+  category: activities
+  name: 'Bubble Planet: An Immersive Experience - Los Angeles'
+  phone: ''
+  place_id: ChIJqb1onwrHwoARLygI6qDQOkE
+  rating: 4.9
+  reviews: 2413
+  slug: bubble-planet-an-immersive-experience-los-angeles
+  website: https://bubble-planet.com/los-angeles/?utm_source=google&utm_medium=localcards&utm_campaign=500549_lax
+- address: 4320 Melrose Ave, Los Angeles, CA 90029, USA
+  category: activities
+  name: The Los Angeles Museum of Love
+  phone: (323) 928-2272
+  place_id: ChIJRyaKoUXHwoARh9-j8fqY7eU
+  rating: 4.7
+  reviews: 192
+  slug: the-los-angeles-museum-of-love
+  website: http://www.losangelesmuseumoflove.com/
+- address: 221 S Grand Ave, Los Angeles, CA 90012, USA
+  category: activities
+  name: The Broad
+  phone: (213) 232-6200
+  place_id: ChIJXaYsEk3GwoARvx7RKBUE8Zg
+  rating: 4.7
+  reviews: 17777
+  slug: the-broad
+  website: https://www.thebroad.org/
+- address: '132 S Vermont Ave #204, Los Angeles, CA 90004, USA'
+  category: activities
+  name: Maze Rooms Escape Game - Vermont
+  phone: (323) 497-9776
+  place_id: ChIJGRp0mmbHwoAREIgg7BzruC8
+  rating: 4.9
+  reviews: 1128
+  slug: maze-rooms-escape-game-vermont
+  website: https://mazerooms.com/vermont-ave-escape-rooms/
+- address: 120 E 11th St, Los Angeles, CA 90015, USA
+  category: activities
+  name: Rage Ground
+  phone: (213) 801-3993
+  place_id: ChIJW9Xg6s_HwoARFG7-3P-1ZKE
+  rating: 4.7
+  reviews: 695
+  slug: rage-ground
+  website: https://rageground.com/
+- address: 5905 Wilshire Blvd, Los Angeles, CA 90036, USA
+  category: activities
+  name: Los Angeles County Museum of Art
+  phone: (323) 857-6000
+  place_id: ChIJsXqcyjy5woARNz6sOh0ZmwA
+  rating: 4.6
+  reviews: 20729
+  slug: los-angeles-county-museum-of-art
+  website: https://www.lacma.org/

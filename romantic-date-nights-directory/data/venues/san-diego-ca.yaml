@@ -1,0 +1,270 @@
+- address: 1920 Fort Stockton Dr Suite C, San Diego, CA 92103, USA
+  category: restaurants
+  name: Wolf In The Woods
+  phone: (619) 234-2597
+  place_id: ChIJq6rmudeq3oARyQfZSR7FKao
+  rating: 4.7
+  reviews: 393
+  slug: wolf-in-the-woods
+  website: http://www.thewolfinthewoods.com/
+- address: 1909 India St, San Diego, CA 92101, USA
+  category: restaurants
+  name: Born and Raised
+  phone: (619) 202-4577
+  place_id: ChIJ4yuqF7JU2YARcQmeuzO8iAE
+  rating: 4.5
+  reviews: 3414
+  slug: born-and-raised
+  website: http://bornandraisedsteak.com/
+- address: 880 Harbor Island Dr, San Diego, CA 92101, USA
+  category: restaurants
+  name: C Level Lounge
+  phone: (619) 298-6802
+  place_id: ChIJ6VN5EEGr3oARraHXh1nFwkc
+  rating: 4.6
+  reviews: 3384
+  slug: c-level-lounge
+  website: https://www.clevelsd.com/
+- address: 1642 University Ave, San Diego, CA 92103, USA
+  category: restaurants
+  name: insideOUT
+  phone: (619) 888-8623
+  place_id: ChIJK8AHDOhU2YARXNfoeK2mhac
+  rating: 4.5
+  reviews: 1700
+  slug: insideout
+  website: http://insideoutsd.com/
+- address: 880 Harbor Island Dr, San Diego, CA 92101, USA
+  category: restaurants
+  name: Island Prime
+  phone: (619) 298-6802
+  place_id: ChIJ6VN5EEGr3oARsKWzNqTsnSM
+  rating: 4.6
+  reviews: 2557
+  slug: island-prime
+  website: https://www.islandprime.com/
+- address: 2228 Kettner Blvd, San Diego, CA 92101, USA
+  category: restaurants
+  name: Juniper and Ivy
+  phone: (619) 269-9036
+  place_id: ChIJU0G2erNU2YAR9XScAoqtvgU
+  rating: 4.6
+  reviews: 2717
+  slug: juniper-and-ivy
+  website: https://www.juniperandivy.com/
+- address: 2550 Fifth Ave 12th floor, San Diego, CA 92103, USA
+  category: restaurants
+  name: Mister A's
+  phone: (619) 239-1377
+  place_id: ChIJhT3vwblU2YARZ3c8cyGp12U
+  rating: 4.6
+  reviews: 2388
+  slug: mister-a-s
+  website: https://www.asrestaurant.com/
+- address: 2150 Harbor Island Dr, San Diego, CA 92101, USA
+  category: restaurants
+  name: Tom Ham's Lighthouse
+  phone: (619) 291-9110
+  place_id: ChIJ2WRAKA2r3oARvgoZnGCdJLo
+  rating: 4.5
+  reviews: 4485
+  slug: tom-ham-s-lighthouse
+  website: http://www.tomhamslighthouse.com/
+- address: 3175 India St, San Diego, CA 92103, USA
+  category: restaurants
+  name: Starlite
+  phone: (619) 618-2830
+  place_id: ChIJ8aKflTSr3oAR-pSbTLFwINQ
+  rating: 4.5
+  reviews: 1239
+  slug: starlite
+  website: https://www.starlitesd.com/
+- address: 467 Fifth Ave, San Diego, CA 92101, USA
+  category: restaurants
+  name: Zama San Diego
+  phone: (619) 915-5789
+  place_id: ChIJDXRDaKNT2YARdPL4ryDWDn8
+  rating: 4.6
+  reviews: 1673
+  slug: zama-san-diego
+  website: https://www.zamasandiego.com/
+- address: 1404 Vacation Rd, San Diego, CA 92109, USA
+  category: hotels
+  name: Paradise Point Resort & Spa
+  phone: (858) 274-4630
+  place_id: ChIJmZ5nBnSq3oARXvYizDSFkwM
+  rating: 4.2
+  reviews: 4780
+  slug: paradise-point-resort-spa
+  website: https://paradisepoint.com/?utm_source=google-local&utm_medium=organic&utm_campaign=gmb
+- address: 1551 Shelter Island Dr, San Diego, CA 92106, USA
+  category: hotels
+  name: Kona Kai San Diego Resort
+  phone: (619) 452-3138
+  place_id: ChIJh9BCkZqr3oARyJuxNCxr0T4
+  rating: 4.2
+  reviews: 2991
+  slug: kona-kai-san-diego-resort
+  website: https://www.resortkonakai.com/?utm_source=gmb-resort&utm_medium=organic&utm_campaign=gmb
+- address: 998 W Mission Bay Dr, San Diego, CA 92109, USA
+  category: hotels
+  name: Bahia Resort Hotel
+  phone: (858) 488-0551
+  place_id: ChIJQQ1Z8wyq3oARETmC67mQXLE
+  rating: 4.3
+  reviews: 6018
+  slug: bahia-resort-hotel
+  website: https://www.bahiahotel.com/?utm_source=google-business-profile&utm_medium=organic&utm_campaign=leisure-rooms
+- address: 610 Diamond St, San Diego, CA 92109, USA
+  category: hotels
+  name: Pacific Terrace Hotel
+  phone: (858) 581-3500
+  place_id: ChIJDSomCo0B3IAReC2nMW4az9o
+  rating: 4.7
+  reviews: 1075
+  slug: pacific-terrace-hotel
+  website: https://www.pacificterrace.com/
+- address: 1370 Sunset Cliffs Blvd, San Diego, CA 92107, USA
+  category: hotels
+  name: The Inn at Sunset Cliffs
+  phone: (619) 222-7901
+  place_id: ChIJQamhkDKq3oARURBDcey2D5U
+  rating: 4.5
+  reviews: 410
+  slug: the-inn-at-sunset-cliffs
+  website: http://www.innatsunsetcliffs.com/
+- address: 723 Felspar St, San Diego, CA 92109, USA
+  category: hotels
+  name: TOWER23 Hotel
+  phone: (858) 270-2323
+  place_id: ChIJx7dVTY0B3IAR5c5pMQpo6CM
+  rating: 4.5
+  reviews: 1085
+  slug: tower23-hotel
+  website: http://www.t23hotel.com/
+- address: 1540 Camino Del Mar, Del Mar, CA 92014, USA
+  category: hotels
+  name: L'Auberge Del Mar
+  phone: (858) 386-1336
+  place_id: ChIJ2zUhFbUI3IARFCO0GXEpOkg
+  rating: 4.5
+  reviews: 1226
+  slug: l-auberge-del-mar
+  website: https://www.laubergedelmar.com/?utm_source=gmb-hotel&utm_medium=organic&utm_campaign=gmb
+- address: 1 Park Blvd, San Diego, CA 92101, USA
+  category: hotels
+  name: Hilton San Diego Bayfront
+  phone: (619) 564-3333
+  place_id: ChIJC0ZfMUVT2YAR15-g5m_LadY
+  rating: 4.3
+  reviews: 9295
+  slug: hilton-san-diego-bayfront
+  website: https://www.hilton.com/en/hotels/sancchh-hilton-san-diego-bayfront/?SEO_id=GMB-AMER-HH-SANCCHH&y_source=1_MTIyMDc1MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+- address: 326 Broadway, San Diego, CA 92101, USA
+  category: hotels
+  name: The US Grant, a Luxury Collection Hotel, San Diego
+  phone: (619) 232-3121
+  place_id: ChIJrRRF3qdU2YAR7QqXnjQvPcI
+  rating: 4.5
+  reviews: 2887
+  slug: the-us-grant-a-luxury-collection-hotel-san-diego
+  website: https://www.marriott.com/en-us/hotels/sanlc-the-us-grant-a-luxury-collection-hotel-san-diego/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+- address: 2303 Shelter Island Dr, San Diego, CA 92106, USA
+  category: hotels
+  name: Humphreys Half Moon Inn
+  phone: (619) 224-3411
+  place_id: ChIJc87CG5-r3oARqr6hK0Za--0
+  rating: 4.5
+  reviews: 3104
+  slug: humphreys-half-moon-inn
+  website: https://www.halfmooninn.com/
+- address: 665 Fifth Ave, San Diego, CA 92101, USA
+  category: activities
+  name: Museum of Illusions - San Diego
+  phone: ''
+  place_id: ChIJH6VyMxxT2YARd2f8XaSqj_A
+  rating: 4.9
+  reviews: 1962
+  slug: museum-of-illusions-san-diego
+  website: https://moisandiego.com/?utm_source=Google+GMB&utm_medium=website
+- address: 232 Fifth Ave, San Diego, CA 92101, USA
+  category: activities
+  name: The Escape Game San Diego (Gaslamp Quarter)
+  phone: (619) 853-2834
+  place_id: ChIJVf6Wg2ZT2YARVV0zJbNLvg4
+  rating: 5
+  reviews: 6860
+  slug: the-escape-game-san-diego-gaslamp-quarter
+  website: https://theescapegame.com/san-diego/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_id=san-diego
+- address: 3146 Mission Blvd, San Diego, CA 92109, USA
+  category: activities
+  name: Belmont Park
+  phone: (858) 488-1549
+  place_id: ChIJGZfrmeJU2YARL4VJe0IZZRQ
+  rating: 4.6
+  reviews: 17895
+  slug: belmont-park
+  website: https://www.belmontpark.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing
+- address: 2110 Hancock St, San Diego, CA 92110, USA
+  category: activities
+  name: Lara's Labyrinth
+  phone: (858) 348-0420
+  place_id: ChIJow6XvlWr3oARYSS2d35Iyj4
+  rating: 5
+  reviews: 2188
+  slug: lara-s-labyrinth
+  website: http://ca.laraslabyrinth.com/
+- address: San Diego, CA, USA
+  category: activities
+  name: Balboa Park
+  phone: (619) 239-0512
+  place_id: ChIJA8tw-pZU2YARxPYVsDwL8-0
+  rating: 4.8
+  reviews: 78834
+  slug: balboa-park
+  website: https://balboapark.org/
+- address: 3116 Mission Blvd, San Diego, CA 92109, USA
+  category: activities
+  name: Escapology Escape Rooms San Diego
+  phone: (858) 412-5914
+  place_id: ChIJTxTYlA6q3oARR0czeQSOqp8
+  rating: 4.9
+  reviews: 1931
+  slug: escapology-escape-rooms-san-diego
+  website: https://www.escapology.com/en/san-diego-ca
+- address: 1363 El Prado, San Diego, CA 92101, USA
+  category: activities
+  name: Alcázar Garden
+  phone: (619) 239-0512
+  place_id: ChIJiQhcvr1U2YARgLK-JWBZeFc
+  rating: 4.7
+  reviews: 922
+  slug: alc-zar-garden
+  website: https://balboapark.org/parks-trails-gardens/alcazar-garden/
+- address: 1550 El Prado, San Diego, CA 92101, USA
+  category: activities
+  name: Botanical Building
+  phone: (619) 239-0512
+  place_id: ChIJ6_R6EJZU2YARjlNooLF78lc
+  rating: 4.7
+  reviews: 4980
+  slug: botanical-building
+  website: https://balboaparkbotanical.org/
+- address: 7007 Friars Rd, San Diego, CA 92108, USA
+  category: activities
+  name: Game Show Studio San Diego
+  phone: (619) 374-9643
+  place_id: ChIJdREVn7tV2YARvV4hpEZZtOA
+  rating: 4.9
+  reviews: 743
+  slug: game-show-studio-san-diego
+  website: https://www.gameshowstudio.com/san-diego/
+- address: 675 W Beech St, San Diego, CA 92101, USA
+  category: activities
+  name: False Idol
+  phone: ''
+  place_id: ChIJzw3GNKxU2YARh9sRm39PY3o
+  rating: 4.7
+  reviews: 1530
+  slug: false-idol
+  website: http://falseidoltiki.com/

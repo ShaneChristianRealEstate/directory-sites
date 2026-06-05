@@ -1,0 +1,270 @@
+- address: 624 N High St, Columbus, OH 43215, USA
+  category: restaurants
+  name: The Guild House
+  phone: (614) 280-9780
+  place_id: ChIJDdUNHSiPOIgRsyv2nwaJ4fw
+  rating: 4.5
+  reviews: 2040
+  slug: the-guild-house
+  website: https://theguildhousecolumbus.com/
+- address: 155 E Broad St, Columbus, OH 43215, USA
+  category: restaurants
+  name: Butcher & Rose
+  phone: (614) 918-9819
+  place_id: ChIJSZyElmqPOIgRJo0D-FWVDu4
+  rating: 4.6
+  reviews: 837
+  slug: butcher-rose
+  website: https://butcherandrose.com/
+- address: 1092 Bethel Rd, Columbus, OH 43220, USA
+  category: restaurants
+  name: The Refectory Restaurant
+  phone: (614) 451-9774
+  place_id: ChIJW58HwQiNOIgRB6M4X1IXJi4
+  rating: 4.7
+  reviews: 1583
+  slug: the-refectory-restaurant
+  website: http://www.refectory.com/
+- address: 169 E Beck St, Columbus, OH 43206, USA
+  category: restaurants
+  name: Lindey's
+  phone: (614) 228-4343
+  place_id: ChIJG7DjFjKPOIgRm73LFxK9vto
+  rating: 4.6
+  reviews: 2853
+  slug: lindey-s
+  website: https://www.lindeys.com/
+- address: 716 S High St, Columbus, OH 43206, USA
+  category: restaurants
+  name: Agni
+  phone: (614) 674-6600
+  place_id: ChIJDxvdWJaPOIgRCyH3oF9ivPE
+  rating: 4.9
+  reviews: 345
+  slug: agni
+  website: http://www.dineatagni.com/
+- address: 1370 E Johnstown Rd, Gahanna, OH 43230, USA
+  category: restaurants
+  name: The Barn at Rocky Fork Creek
+  phone: (614) 855-9840
+  place_id: ChIJxY9rX-dgOIgR262ZC8o6idc
+  rating: 4.6
+  reviews: 2813
+  slug: the-barn-at-rocky-fork-creek
+  website: https://thebarncolumbus.com/
+- address: 595 S 3rd St, Columbus, OH 43215, USA
+  category: restaurants
+  name: Cento
+  phone: (614) 696-6565
+  place_id: ChIJLxmHY3OPOIgRytHuyXYo1Ys
+  rating: 4.6
+  reviews: 494
+  slug: cento
+  website: https://centogermanvillage.com/
+- address: 641 N High St, Columbus, OH 43215, USA
+  category: restaurants
+  name: The Pearl
+  phone: (614) 227-0151
+  place_id: ChIJRa4b_deOOIgRJ7KonAxliHg
+  rating: 4.6
+  reviews: 2697
+  slug: the-pearl
+  website: https://thepearlrestaurant.com/
+- address: 89 E Nationwide Blvd, Columbus, OH 43215, USA
+  category: restaurants
+  name: Jeff Ruby's Steakhouse
+  phone: (614) 686-7800
+  place_id: ChIJ75S6vS6POIgRWjGU7iXmgWs
+  rating: 4.8
+  reviews: 2698
+  slug: jeff-ruby-s-steakhouse
+  website: http://jeffruby.com/columbus
+- address: 810 N High St, Columbus, OH 43215, USA
+  category: restaurants
+  name: Mandrake Rooftop
+  phone: (614) 793-1500
+  place_id: ChIJhXkCMEePOIgRtTpxUXGeQVI
+  rating: 4.3
+  reviews: 989
+  slug: mandrake-rooftop
+  website: http://mandrakerooftop.com/
+- address: 519 S Drexel Ave, Bexley, OH 43209, USA
+  category: hotels
+  name: Bexley Bed & Breakfast
+  phone: (614) 935-1863
+  place_id: ChIJ7dI22USIOIgRV9kYvbVUIk0
+  rating: 4.9
+  reviews: 98
+  slug: bexley-bed-breakfast
+  website: https://www.bexleybedandbreakfast.com/?utm_source=google&utm_medium=GMB
+- address: 5811 Olentangy River Rd, Columbus, OH 43235, USA
+  category: hotels
+  name: 'The Timbrook Guesthouse: A Unique Luxury Inn'
+  phone: (614) 634-2166
+  place_id: ChIJ9UrVbh-NOIgRwAs4FB8GuWc
+  rating: 4.9
+  reviews: 198
+  slug: the-timbrook-guesthouse-a-unique-luxury-inn
+  website: http://www.timbrookguesthouse.com/
+- address: 50 E Lincoln St, Columbus, OH 43215, USA
+  category: hotels
+  name: The Lincoln Short North Bed, Breakfast, & Boutique Accommodations
+  phone: (614) 299-5050
+  place_id: ChIJv9QdvdeOOIgRcP0EBzV7mCE
+  rating: 4.9
+  reviews: 333
+  slug: the-lincoln-short-north-bed-breakfast-boutique-accommodations
+  website: https://www.columbus-bed-breakfast.com/?utm_source=google&utm_medium=GMB
+- address: 919 S High St, Columbus, OH 43206, USA
+  category: hotels
+  name: South Wind Motel
+  phone: (614) 845-1135
+  place_id: ChIJg6iPe8WPOIgRwxmos7YS8Lo
+  rating: 4.9
+  reviews: 531
+  slug: south-wind-motel
+  website: https://southwindstay.com/
+- address: 96 Gender Rd, Canal Winchester, OH 43110, USA
+  category: hotels
+  name: BrewDog DogHouse Columbus Hotel and Brewery
+  phone: (614) 908-3054
+  place_id: ChIJI1HSvAZ8OIgRv17h5opBdPc
+  rating: 4.5
+  reviews: 1583
+  slug: brewdog-doghouse-columbus-hotel-and-brewery
+  website: https://bit.ly/doghouse-columbus-hotel
+- address: 620 N High St, Columbus, OH 43215, USA
+  category: hotels
+  name: Le Méridien Columbus, The Joseph
+  phone: (614) 227-0100
+  place_id: ChIJVxTW4deOOIgRekHbd6pPM-Y
+  rating: 4.5
+  reviews: 772
+  slug: le-m-ridien-columbus-the-joseph
+  website: https://www.marriott.com/en-us/hotels/cmhdm-le-meridien-columbus-the-joseph/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+- address: 77 Belle St, Columbus, OH 43215, USA
+  category: hotels
+  name: The Junto
+  phone: (614) 607-6700
+  place_id: ChIJ2_etNA2POIgRiwFW6GRZ4Go
+  rating: 4.4
+  reviews: 456
+  slug: the-junto
+  website: https://thejuntohotel.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp
+- address: 88 E Nationwide Blvd, Columbus, OH 43215, USA
+  category: hotels
+  name: Drury Plaza Hotel Columbus Downtown
+  phone: (614) 221-7008
+  place_id: ChIJDQUrxi6POIgRem2J1oMLnbA
+  rating: 4.6
+  reviews: 1595
+  slug: drury-plaza-hotel-columbus-downtown
+  website: https://www.druryhotels.com/locations/columbus-oh/drury-plaza-hotel-columbus-downtown?utm_campaign=gmb&utm_medium=organic&utm_source=local2
+- address: 50 W Broad St, Columbus, OH 43215, USA
+  category: hotels
+  name: Hotel LeVeque, Autograph Collection
+  phone: (614) 224-9500
+  place_id: ChIJJcJJWDCPOIgRGhqa3jrfSJo
+  rating: 4.6
+  reviews: 1274
+  slug: hotel-leveque-autograph-collection
+  website: https://www.marriott.com/en-us/hotels/cmhak-hotel-leveque-autograph-collection/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+- address: 3900 Chagrin Dr, Columbus, OH 43219, USA
+  category: hotels
+  name: Hilton Columbus at Easton
+  phone: (614) 414-5000
+  place_id: ChIJLZj_fH6KOIgRGE1db5ihemY
+  rating: 4.5
+  reviews: 4077
+  slug: hilton-columbus-at-easton
+  website: https://www.hilton.com/en/hotels/cmhchhf-hilton-columbus-at-easton/?SEO_id=GMB-AMER-HH-CMHCHHF&y_source=1_MTIyMDg4Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+- address: 8735 Lyra Dr, Columbus, OH 43240, USA
+  category: activities
+  name: Activate Games
+  phone: (614) 254-6019
+  place_id: ChIJk1vCsRX1OIgRJ4uPtno0pPE
+  rating: 4.9
+  reviews: 594
+  slug: activate-games
+  website: https://playactivate.com/columbus?utm_source=google&utm_medium=organic&utm_campaign=gmb-columbus
+- address: 1777 E Broad St, Columbus, OH 43203, USA
+  category: activities
+  name: Franklin Park Conservatory and Botanical Gardens
+  phone: (614) 715-8000
+  place_id: ChIJB9mFbvmIOIgR4V83OLOlHnE
+  rating: 4.8
+  reviews: 11855
+  slug: franklin-park-conservatory-and-botanical-gardens
+  website: https://fpconservatory.org/
+- address: 5819 Chantry Dr, Columbus, OH 43232, USA
+  category: activities
+  name: Otherworld
+  phone: (614) 808-6433
+  place_id: ChIJtQzg4dZ9OIgRW3IMV8vgxvE
+  rating: 4.6
+  reviews: 9143
+  slug: otherworld
+  website: https://otherworld.com/
+- address: 3786 Fishinger Blvd, Hilliard, OH 43026, USA
+  category: activities
+  name: Game Show Battle Rooms - Columbus (Hilliard)
+  phone: (614) 907-7180
+  place_id: ChIJH0Ztt1mTOIgRc5GHB5FWgCI
+  rating: 5
+  reviews: 13239
+  slug: game-show-battle-rooms-columbus-hilliard
+  website: http://www.gameshowbattlerooms.com/columbus
+- address: 7925 N High St, Columbus, OH 43235, USA
+  category: activities
+  name: ZipZone Outdoor Adventures
+  phone: (614) 847-9477
+  place_id: ChIJy2qKaBPzOIgRkhqrgiQz8bo
+  rating: 4.9
+  reviews: 1007
+  slug: zipzone-outdoor-adventures
+  website: https://zipzonetours.com/
+- address: 120 W Goodale St, Columbus, OH 43215, USA
+  category: activities
+  name: Goodale Park
+  phone: (614) 645-3300
+  place_id: ChIJpSLxgdiOOIgRaFfMLsLaT38
+  rating: 4.6
+  reviews: 4426
+  slug: goodale-park
+  website: http://goodalepark.org/
+- address: 3960 Easton Station, Columbus, OH 43219, USA
+  category: activities
+  name: The Escape Game Columbus
+  phone: (614) 412-5372
+  place_id: ChIJkxQ87K6LOIgRudes052qmFA
+  rating: 5
+  reviews: 10387
+  slug: the-escape-game-columbus
+  website: https://theescapegame.com/columbus/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_id=columbus
+- address: 1777 E Broad St, Columbus, OH 43205, USA
+  category: activities
+  name: Conservatory Building
+  phone: (858) 914-7464
+  place_id: ChIJ6wfqpYuJOIgRENJw9qdugjY
+  rating: 4.8
+  reviews: 1207
+  slug: conservatory-building
+  website: http://www.fpconservatory.org/
+- address: 4326 Hayden Run Rd, Dublin, OH 43017, USA
+  category: activities
+  name: Hayden Falls Park
+  phone: (614) 645-3300
+  place_id: ChIJHXhARPeSOIgR70QWk9Ej0wg
+  rating: 4.5
+  reviews: 3090
+  slug: hayden-falls-park
+  website: https://dublinohiousa.gov/recreation-services/
+- address: 835 Grandview Ave, Columbus, OH 43215, USA
+  category: activities
+  name: Breakout Games
+  phone: (614) 796-4073
+  place_id: ChIJ21QtkK2POIgR1ZAG2kGlIRc
+  rating: 4.9
+  reviews: 11588
+  slug: breakout-games
+  website: https://www.breakoutgames.com/columbus?utm_source=google&utm_medium=organic&utm_campaign=gmb-columbus

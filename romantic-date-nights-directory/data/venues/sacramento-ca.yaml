@@ -1,0 +1,270 @@
+- address: 1117 11th St, Sacramento, CA 95814, USA
+  category: restaurants
+  name: Prelude Kitchen & Bar
+  phone: (916) 898-1071
+  place_id: ChIJUUP-FdjRmoARQBkK0Zl0lVg
+  rating: 4.6
+  reviews: 572
+  slug: prelude-kitchen-bar
+  website: https://preluderestaurant.com/
+- address: 2000 Capitol Ave, Sacramento, CA 95811, USA
+  category: restaurants
+  name: The Waterboy
+  phone: (916) 498-9891
+  place_id: ChIJGW0_wtzQmoARdmdVu1D1tV8
+  rating: 4.7
+  reviews: 863
+  slug: the-waterboy
+  website: http://www.waterboyrestaurant.com/
+- address: 5215 Folsom Blvd, Sacramento, CA 95819, USA
+  category: restaurants
+  name: Allora
+  phone: (916) 538-6434
+  place_id: ChIJmWb7-4DamoARx5D_6wSMzLY
+  rating: 4.7
+  reviews: 770
+  slug: allora
+  website: https://allorasacramento.com/
+- address: 926 J St, Sacramento, CA 95814, USA
+  category: restaurants
+  name: Grange Restaurant & Bar
+  phone: (916) 492-4450
+  place_id: ChIJx3S_gCnRmoARpVtEv9u-GvY
+  rating: 4.4
+  reviews: 864
+  slug: grange-restaurant-bar
+  website: https://www.grangerestaurantandbar.com/
+- address: 2031 S St, Sacramento, CA 95811, USA
+  category: restaurants
+  name: Localis
+  phone: (916) 737-7699
+  place_id: ChIJYUnm_ubQmoARMQ2616W5Yi8
+  rating: 4.7
+  reviews: 591
+  slug: localis
+  website: https://localissacramento.com/
+- address: 4800 Riverside Blvd, Sacramento, CA 95822, USA
+  category: restaurants
+  name: Scott's Seafood on the River
+  phone: (916) 379-5959
+  place_id: ChIJgc31pJnRmoARr71LeWUc5Q0
+  rating: 4.4
+  reviews: 2800
+  slug: scott-s-seafood-on-the-river
+  website: https://www.scottsseafoodontheriver.com/
+- address: 1/2 95811, 2028 H St, Sacramento, CA 95811, USA
+  category: restaurants
+  name: Moxie Restaurant
+  phone: (916) 443-7585
+  place_id: ChIJOWJBEMXQmoAReqD0uBqEFUY
+  rating: 4.7
+  reviews: 360
+  slug: moxie-restaurant
+  website: https://moxiego.site/
+- address: 1112 2nd St, Sacramento, CA 95814, USA
+  category: restaurants
+  name: The Firehouse Restaurant
+  phone: (916) 442-4772
+  place_id: ChIJ226kLM3WmoARzPF30SAGzDs
+  rating: 4.6
+  reviews: 1672
+  slug: the-firehouse-restaurant
+  website: http://www.firehouseoldsac.com/
+- address: '915 Broadway #100, Sacramento, CA 95818, USA'
+  category: restaurants
+  name: The Kitchen Restaurant
+  phone: (916) 568-7171
+  place_id: ChIJxyCQgkfamoARaCjr8r-6xcM
+  rating: 4.7
+  reviews: 803
+  slug: the-kitchen-restaurant
+  website: http://thekitchenrestaurant.com/
+- address: 1401 28th St, Sacramento, CA 95816, USA
+  category: restaurants
+  name: Paragary's
+  phone: (916) 457-5737
+  place_id: ChIJMxyTdOvQmoARz70FXisQ2cs
+  rating: 4.4
+  reviews: 980
+  slug: paragary-s
+  website: http://www.paragarysmidtown.com/
+- address: 500 J St, Sacramento, CA 95814, USA
+  category: hotels
+  name: Kimpton Sawyer Hotel
+  phone: (916) 545-7100
+  place_id: ChIJbXhq5SzRmoAR3sHmxdgHBjw
+  rating: 4.4
+  reviews: 1718
+  slug: kimpton-sawyer-hotel
+  website: https://www.sawyerhotel.com/?cm_mmc=WEB-_-KI-_-AMER-_-EN-_-EV-_-Google%20Business%20Profile-_-DD-_-sawyer
+- address: 2116 6th St, Sacramento, CA 95818, USA
+  category: hotels
+  name: The Inn & Spa at Parkside
+  phone: (916) 658-1818
+  place_id: ChIJRwtYETvRmoAR-eREB0okeno
+  rating: 4.5
+  reviews: 231
+  slug: the-inn-spa-at-parkside
+  website: http://www.innatparkside.com/
+- address: 2019 21st Street, Sacramento, CA 95818, USA
+  category: hotels
+  name: Vizcaya
+  phone: (916) 594-9285
+  place_id: ChIJ69l-gubQmoARTOs9w3FCP8E
+  rating: 4.4
+  reviews: 492
+  slug: vizcaya
+  website: http://vizcayasacramento.com/
+- address: 4800 Riverside Blvd, Sacramento, CA 95822, USA
+  category: hotels
+  name: The Westin Sacramento Riverfront Hotel & Spa
+  phone: (916) 443-8400
+  place_id: ChIJ39L1pJnRmoARD5mE1B4GYIo
+  rating: 4.3
+  reviews: 827
+  slug: the-westin-sacramento-riverfront-hotel-spa
+  website: https://www.marriott.com/en-us/hotels/sacws-the-westin-sacramento-riverfront-hotel-and-spa/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+- address: 1300 H St, Sacramento, CA 95814, USA
+  category: hotels
+  name: The Sterling Hotel
+  phone: (916) 448-1300
+  place_id: ChIJ65rzi9bQmoARBORre7WwTmw
+  rating: 4.2
+  reviews: 441
+  slug: the-sterling-hotel
+  website: http://www.sterlinghotelsacramento.com/
+- address: 1209 L St, Sacramento, CA 95814, USA
+  category: hotels
+  name: Hyatt Regency Sacramento
+  phone: (916) 443-1234
+  place_id: ChIJDTt_HyjRmoARDtu2yLCU3ko
+  rating: 4.4
+  reviews: 3860
+  slug: hyatt-regency-sacramento
+  website: https://www.hyatt.com/hyatt-regency/en-US/sacra-hyatt-regency-sacramento?src=corp_lclb_google_seo_sacra&utm_source=google&utm_medium=organic&utm_campaign=lmr
+- address: 1000 Front St, Sacramento, CA 95814, USA
+  category: hotels
+  name: Delta King Hotel
+  phone: (916) 444-5464
+  place_id: ChIJRbj_6MzWmoARgqNqwWQqTnc
+  rating: 4.2
+  reviews: 1368
+  slug: delta-king-hotel
+  website: http://www.deltaking.com/
+- address: 926 J St, Sacramento, CA 95814, USA
+  category: hotels
+  name: The Citizen Hotel, Autograph Collection
+  phone: (916) 447-2700
+  place_id: ChIJx3S_gCnRmoAReXVw77Utzvs
+  rating: 4.3
+  reviews: 1688
+  slug: the-citizen-hotel-autograph-collection
+  website: https://www.marriott.com/en-us/hotels/sacak-the-citizen-hotel-autograph-collection/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+- address: 8201 Freeport Blvd, Sacramento, CA 95832, USA
+  category: hotels
+  name: Freeport Wine Country Inn
+  phone: (916) 665-9500
+  place_id: ChIJObQbMOXOmoAR0kAsy6pTPEs
+  rating: 4.6
+  reviews: 224
+  slug: freeport-wine-country-inn
+  website: https://freeportwinecountryinn.com/rooms-and-lodging/
+- address: 1006 4th St, Sacramento, CA 95814, USA
+  category: hotels
+  name: The Exchange Sacramento, Curio Collection by Hilton
+  phone: (916) 931-3300
+  place_id: ChIJN63euhPRmoARQq-cDFijbSY
+  rating: 4.1
+  reviews: 308
+  slug: the-exchange-sacramento-curio-collection-by-hilton
+  website: https://www.hilton.com/en/hotels/smfsaqq-the-exchange-sacramento/?SEO_id=GMB-AMER-QQ-SMFSAQQ&y_source=1_MjY2NzYyMTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+- address: 600 Broadway suite D, Sacramento, CA 95818, USA
+  category: activities
+  name: Smash Sacramento
+  phone: (916) 594-9657
+  place_id: ChIJ_dqVTVbRmoARVe3dvy8KLEg
+  rating: 4.8
+  reviews: 1157
+  slug: smash-sacramento
+  website: https://www.smashsacramento.com/
+- address: '1014 2nd St #200, Sacramento, CA 95814, USA'
+  category: activities
+  name: Old Sacramento Waterfront
+  phone: (916) 970-5226
+  place_id: ChIJy_qwEs3WmoARcHTfbV8tsNM
+  rating: 4.6
+  reviews: 28997
+  slug: old-sacramento-waterfront
+  website: http://www.oldsacramento.com/
+- address: 2230 Arden Wy C, Sacramento, CA 95825, USA
+  category: activities
+  name: 'Enchambered: Sacramento Escape Room'
+  phone: (916) 674-2008
+  place_id: ChIJZYNwJjramoARcslW7kWesYs
+  rating: 5
+  reviews: 14958
+  slug: enchambered-sacramento-escape-room
+  website: https://www.enchambered.com/
+- address: 6412 Tupelo Dr, Citrus Heights, CA 95621, USA
+  category: activities
+  name: Smash sacramento
+  phone: (916) 670-1139
+  place_id: ChIJLXY14-TfmoARBTyXUxDTl3s
+  rating: 4.8
+  reviews: 332
+  slug: smash-sacramento
+  website: https://www.smashsacramento.com/citrus-heights-location
+- address: 3255 H St, Sacramento, CA 95816, USA
+  category: activities
+  name: McKinley Rose Garden
+  phone: (916) 452-8011
+  place_id: ChIJeQtja5bQmoARHphjrCRt1oo
+  rating: 4.8
+  reviews: 1435
+  slug: mckinley-rose-garden
+  website: ''
+- address: 1893 Taylor Rd, Roseville, CA 95661, USA
+  category: activities
+  name: Roseville Golfland Sunsplash
+  phone: (916) 784-1273
+  place_id: ChIJfQmp14Ufm4ARs30FxkZCA78
+  rating: 4.4
+  reviews: 5612
+  slug: roseville-golfland-sunsplash
+  website: http://www.golfland.com/roseville
+- address: 1831 I St, Sacramento, CA 95811, USA
+  category: activities
+  name: Escape Sacramento - Sacramento's Original Escape Room
+  phone: (916) 741-0299
+  place_id: ChIJc2NrudrQmoAR8A0GOW2tBaw
+  rating: 4.9
+  reviews: 800
+  slug: escape-sacramento-sacramento-s-original-escape-room
+  website: https://escapesacramento.com/
+- address: 1028 2nd St, Sacramento, CA 95814, USA
+  category: activities
+  name: Underground Mini Golf
+  phone: (916) 312-4142
+  place_id: ChIJubiLVUDXmoAR9aRWz7M1evA
+  rating: 4.9
+  reviews: 1724
+  slug: underground-mini-golf
+  website: https://undergroundminigolf.com/
+- address: 216 O St, Sacramento, CA 95814, USA
+  category: activities
+  name: Crocker Art Museum
+  phone: (916) 808-7000
+  place_id: ChIJ7ecEyDPRmoARObm20dmuM9k
+  rating: 4.8
+  reviews: 3772
+  slug: crocker-art-museum
+  website: http://www.crockerart.org/
+- address: 111 I St, Sacramento, CA 95814, USA
+  category: activities
+  name: Old Sacramento State Historic Park
+  phone: (916) 445-7387
+  place_id: ChIJbx7iQpjXmoAR42B31L9uVpg
+  rating: 4.7
+  reviews: 712
+  slug: old-sacramento-state-historic-park
+  website: http://www.parks.ca.gov/?page_id=497
