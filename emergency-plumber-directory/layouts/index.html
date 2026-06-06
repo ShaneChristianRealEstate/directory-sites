@@ -1,0 +1,61 @@
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}"
+}
+</script>
+{{ end }}
+
+{{ define "main" }}
+<div class="hero">
+  <h1>{{ .Title }}</h1>
+  <p class="hero-desc">{{ .Site.Params.description }}</p>
+</div>
+
+<div class="page-content">
+  {{ .Content }}
+</div>
+
+<!-- Cities grid -->
+{{ $cities := where .Site.Pages "Type" "city" }}
+{{ if $cities }}
+<section class="cities-grid">
+  <h2>Browse by City</h2>
+  <div class="grid">
+    {{ range $cities }}
+    <a href="{{ .RelPermalink }}" class="city-card{{ with .Params.cityImage }} has-image{{ end }}"
+       {{ with .Params.cityImage }}style="background-image: url('{{ . }}')"{{ end }}>
+      <div class="city-card-content">
+        <h3>{{ .Params.city }}</h3>
+        <p>{{ $.Site.Params.niche | title }} providers</p>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+<!-- In-content ad slot -->
+{{ with .Site.Params.adsensePublisherId }}{{ with $.Site.Params.adsenseSlotContent }}
+<div class="ad-container">
+  <ins class="adsbygoogle" style="display:block" data-ad-client="{{ $.Site.Params.adsensePublisherId }}" data-ad-slot="{{ . }}" data-ad-format="auto" data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{{ end }}{{ end }}
+
+<!-- Recent guides -->
+{{ $guides := where .Site.RegularPages "Type" "blog" }}
+{{ if $guides }}
+<section class="recent-guides">
+  <h2>Helpful Guides</h2>
+  <ul class="guide-list">
+    {{ range first 6 $guides }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}
+{{ end }}

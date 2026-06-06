@@ -1,0 +1,54 @@
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}"
+  }
+}
+</script>
+{{ end }}
+
+{{ define "main" }}
+<div class="breadcrumb">
+  <a href="/">Home</a> &rsaquo; <a href="/blog/">Guides</a> &rsaquo; {{ .Title }}
+</div>
+
+<article class="guide-article">
+  <h1>{{ .Title }}</h1>
+  <p class="article-meta">Published {{ .Date.Format "January 2, 2006" }}{{ with .Params.city }} &middot; {{ . }}{{ end }}</p>
+
+  <!-- In-content ad slot -->
+  {{ with .Site.Params.adsensePublisherId }}{{ with $.Site.Params.adsenseSlotContent }}
+  <div class="ad-container">
+    <ins class="adsbygoogle" style="display:block" data-ad-client="{{ $.Site.Params.adsensePublisherId }}" data-ad-slot="{{ . }}" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+  {{ end }}{{ end }}
+
+  <div class="page-content">
+    {{ .Content }}
+  </div>
+</article>
+
+<!-- Related articles -->
+{{ $city := .Params.city }}
+{{ $current := . }}
+{{ $related := where (where .Site.RegularPages "Type" "blog") "Params.city" $city | first 4 }}
+{{ if gt (len $related) 1 }}
+<section class="related-articles">
+  <h2>More Guides{{ with $city }} for {{ . }}{{ end }}</h2>
+  <ul class="guide-list">
+    {{ range $related }}
+    {{ if ne .Permalink $current.Permalink }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+    {{ end }}
+  </ul>
+</section>
+{{ end }}
+{{ end }}

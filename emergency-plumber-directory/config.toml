@@ -1,0 +1,12 @@
+baseURL = "https://emergencyplumbernearme.com"
+locale = "en-US"
+title = "Best Emergency Plumber — Local Directory"
+
+[params]
+  niche = "emergency plumber"
+  description = "Find the best emergency plumber providers in your city."
+  adsensePublisherId = "ca-pub-XXXXXXXXXXXXXXXX"
+  adsenseSlotHeader = "1234567890"
+  adsenseSlotContent = "0987654321"
+  adsenseSlotFooter = "1122334455"
+  googleAnalyticsId = "G-SKL2VE5Z16"
